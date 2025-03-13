@@ -1,0 +1,2802 @@
+[
+    {
+        "problem": "e of the roots of $p(x)$ are 1, 2, and 3.  Find $p(0) + ",
+        "solution": "\\begin{align*}\np(0) + p(4) &= (-1)(-2)(-3)(-r) + (3)(2)(1)(4 - r) \\\\\n&= 6r + 24 -",
+        "answer": "4",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/591.json"
+    },
+    {
+        "problem": "aximum value of $4(x + 7)(2 - x)$, ov",
+        "solution": " $y = 4(x + ",
+        "answer": "8",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2064.json"
+    },
+    {
+        "problem": "c|c|c|}\n\\multicolumn{6}{c}{\\textbf{Number of Students per County}}\\\\\\hline\n\\textbf{COUNTY}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline\nAiken&124&141&130&143&136\\\\\\hline\nBamberg&17&15&15&14&11\\\\\\hline\nBarnwell&25&22&26&28&29\\\\\\hline\nBerkeley&",
+        "solution": " the average of the number of students in the county with the $4^\\text{th}",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1804.json"
+    },
+    {
+        "problem": "inewidth(.7pt)+fontsize(10pt));\npair A, B, C, D, E, F;\nA=(0,6);\nB=(0,0);\nC=(8,0);\nD=(0,3);\nE=(4,0);\nF=(8/3,2);\ndraw(E--A--C--D);\ndraw((-1,0)--(10,0), EndArrow);\ndraw((0,-1)--(0,8), EndArrow);\nlabel(\"$A(0,6)$\", A, W);\nlabel(\"$B(0,0)$\", B, SW);\nlabel(\"$C(8,0)$\", C, S);\nlabel(\"$D$\", D, ",
+        "solution": "4$. The height of $\\triangl",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/283.json"
+    },
+    {
+        "problem": "etermine the modulo 4 remainder of the following sum: $",
+        "solution": " + 0 + 1 + 2 + 3 + 0\\\\&\\equiv 3(1 + 2 + 3 + 0) \\\\\n&\\equiv 18\\\\\n& \\equiv \\box",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 1,
+        "unique_id": "test/number_theory/239.json"
+    },
+    {
+        "problem": "$has integer coefficients, and its roots are distinct integers.\n\nGiven that $a_n=2$ and $a_0=66$, what is the least ",
+        "solution": " cases.\n\nCase 1 is that ",
+        "answer": "4",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1350.json"
+    },
+    {
+        "problem": "divisors of 12 are 1, 2, 3, 4 and 6. A proper divisor of an integer $N$ is a positive divisor of $N$ that i",
+        "solution": "^2)(1+71)$ by distributing yields an expression which is the sum of all $6$ factors of $284.$ Applying this observation again, we find that the sum of the proper divisors of $220$ is ",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/737.json"
+    },
+    {
+        "problem": " domain of the real-valued function $f(x)",
+        "solution": "are both positive. They are both negative when $x<2$. They are both positive when $x>3$. So the domain of $f(x)$ is $x<2 \\text{ or } x>3$, or $x \\in \\boxed{(-\\infty, 2) \\cup (3, \\infty)}$ in interval n",
+        "answer": "ty, 2) \\cup (3",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2043.json"
+    },
+    {
+        "problem": "e, and Connie walked around their neighborhoods selling girl scout cookies. Linda earned $\\$27.47$, Sherry earned $\\$35.23$, June earned $\\$37.37$, and Connie earned $\\$26.52$. After the sale, they poo",
+        "solution": "52 &\\equiv ",
+        "answer": "5",
+        "subject": "Number Theory",
+        "level": 2,
+        "unique_id": "test/number_theory/679.json"
+    },
+    {
+        "problem": "f the values of $a$ that satisfy the equation ",
+        "solution": "ad\\Rightarrow\\\\\n(5-a)^2&=9\n\\end{align*} Therefore, \\begin{align*}\n5-a=3\\quad\\text{ OR }",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2391.json"
+    },
+    {
+        "problem": "ys can $7$ people sit around a round table if no two of the $3$ people Pierre, Rosa, and Thomas can sit next ",
+        "solution": "\\cdot 24 = 96$ seatings in this case.\n\nCase 2: Rosa is three seats from Pierre (that is, there are $2$ seats between them). There are $2$ such seats. Thomas can't sit ",
+        "answer": "1",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/525.json"
+    },
+    {
+        "problem": "re in the solution set of $|x-",
+        "solution": "$ can be any integer from -3 to 7, inclusive. There are $7-(-3)+1=\\boxed{11}$ integers in t",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/170.json"
+    },
+    {
+        "problem": "hool.  15 take calculus, physics, and chemistry, and 15 don't take any of them.  180 take calculus.  Twice as many students take chemistry as take physics.  75 take bot",
+        "solution": "r classes, $x - 90$ students are just taking physics.  Similarly, there are $2x - 135$ students taking just chemistry and ",
+        "answer": "1",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/765.json"
+    },
+    {
+        "problem": "-6)-6(2r^3-r^2+4r)$, and express your answer in the form $Ar^2 + ",
+        "solution": "r^3-r^2+4r) = 12r^3+2",
+        "answer": "4r-24",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1547.json"
+    },
+    {
+        "problem": "i(x)$ is monic with integer coefficients, and cannot be factored further over the integers.  Compute $p_1(1) + p_",
+        "solution": "(x^2 + 2x + 2)(x^2 - 2x + 2).\\]Thus, the ful",
+        "answer": "1",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/279.json"
+    },
+    {
+        "problem": "Simplify $\\tan 100^\\ci",
+        "solution": "80^\\circ}{\\sin 10^\\circ}.\n\\end{align*}By sum-to-product,\n\\[\\sin 20^\\circ - \\sin 80^\\circ = 2 \\cos 50^\\circ \\sin (-30^\\circ) = -\\cos 50^\\circ,\\]so\n\\begin{align*}\n\\frac{\\sin 20^\\circ + \\sin 20^\\circ - \\sin 80^\\circ}{\\sin 10^\\circ} &= \\frac{\\sin 20^\\circ - \\cos 50^\\circ}{\\sin 10^\\circ} \\\\\n&= \\frac{\\sin 20^\\circ - \\sin 40^\\circ}{\\sin 10^\\circ}.\n\\end{align*}By sum-to-product,\n\\[\\sin 20^\\circ - \\sin 40^\\circ = 2 \\cos 30^\\circ \\sin (-10^\\circ) = -\\sq",
+        "answer": "qrt{",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/697.json"
+    },
+    {
+        "problem": "ngth $2$ units and the set of all points less than $1$ unit away from a point on the perimeter of the nonagon.  What,",
+        "solution": "cs.\n\nE.  (",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/686.json"
+    },
+    {
+        "problem": "f the unicycle's wheel has a radius of 9 inches and makes 2 revolutions every 3 seconds",
+        "solution": "pi$ inches. So, if there are $18\\pi$ inches i",
+        "answer": "2\\",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1423.json"
+    },
+    {
+        "problem": "two-digit number $``B6,''$ where $B$ is the tens digit, is the square of a",
+        "solution": " $6$. Thus, there are $\\boxed{2}$ dis",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/22.json"
+    },
+    {
+        "problem": "are tangent to the circle at $O$ and $N$. Find the number of degrees in the sum of $m\\angle J$ and $m\\angle H$. [asy]\nsize(150);\nimport graph;\npair J = (0,0), H = (6,0), O, N;\npath circ = Circle(J,3);\npair M = midpoint(J--H);\npath secCirc = Circle(M,",
+        "solution": "m80^\\c",
+        "answer": "^",
+        "subject": "Geometry",
+        "level": 1,
+        "unique_id": "test/geometry/226.json"
+    },
+    {
+        "problem": "\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. What is the number of square centimeters in the area of $\\triangle CDE$? [asy]\ndraw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle);\nlabel",
+        "solution": "the ratio of sides in $ABC$ to $EDC$ is $1:3,$ meaning the ratio",
+        "answer": "5",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/547.json"
+    },
+    {
+        "problem": "ne\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the corr",
+        "solution": "Cos(2*t));\n  return (r*Cos(t), r*Sin(t));\n}\n\npath foo = moo(-44);\nreal t;\n\nfor (t = -44; t <= 44; t = t + 0.1) {\n  foo = foo--moo(t);\n}\n\ndraw(foo,red);\ndraw(reflect((0,0),(0,1))*(foo),red);\n\ndraw((-4,0)--(4,0));\ndraw((0,-4)--(0,4",
+        "answer": "t{(E)",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/452.json"
+    },
+    {
+        "problem": "c{(10r^3)(4r^6)}{8r",
+        "solution": "+6}}{8r^4} = \\frac{40}{",
+        "answer": "5r",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2680.json"
+    },
+    {
+        "problem": "cos 35^\\circ \\cos 50^\\circ - \\sin 5^\\circ \\sin 20^\\circ - \\sin 35^\\circ \\sin 50^\\circ}{\\sin 5^\\circ \\cos 20^\\circ - \\sin 35^\\circ \\cos 50^\\circ + \\cos 5^\\circ \\sin ",
+        "solution": "\\cos 35^\\circ \\sin 50^\\circ) \\\\\n&= (\\sin 5^\\circ \\cos 20^\\circ +  \\cos 5^\\circ \\sin 20^\\circ) - (\\sin 35^\\circ \\cos 50^\\circ + \\cos 35^\\circ \\sin 50^\\circ) \\\\\n&= \\sin (5^\\circ + 20^\\circ) - \\sin (35^\\circ + 50^\\circ) \\\\\n&= \\sin 25^\\circ - \\sin 85^\\circ \\\\\n&= -2 \\sin 30^\\circ \\cos 55^\\circ,\n\\end{align*}so the expression is equ",
+        "answer": "20^\\",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/44.json"
+    },
+    {
+        "problem": ")$ is reflected about the line $y=k$. This results in the parabola with equation $y=dx^2+ex+f$. ",
+        "solution": "y = -a(x - h)^2 + k.\\]Thus,\n\\[ax^2 + bx + c + dx^2 + ex + f = 2k.\\]Setting $x = 1,$ we get $a + b + c + d",
+        "answer": "2",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1566.json"
+    },
+    {
+        "problem": "or what value of $x$ ",
+        "solution": "72=2^3\\",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 1,
+        "unique_id": "test/prealgebra/192.json"
+    },
+    {
+        "problem": "f the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, ",
+        "solution": "- s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "urchased in Italy for 1200 lire. The same gelato would have cost $\\$1.50$ in the U.S. At the equivalent exchange rate bet",
+        "solution": " that one million lire equals $\\frac{3}{2}\\cdot10,\\!000/12=\\boxed{1250}$ ",
+        "answer": "50",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/993.json"
+    },
+    {
+        "problem": "us of a sphere whose volume and surface area, in cubic units and square units,",
+        "solution": " 4 \\pi r^2.\\]We can divide both sides by $4 \\pi r^2$, to get\n\\[\\frac{1}{3} r = 1.\\]The",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/456.json"
+    },
+    {
+        "problem": "of $f(-2) +f(-1)+f(0)$? Express your answer as a common ",
+        "solution": "\\frac{-8}{-4}+\\frac{-5}{-3}+\\fra",
+        "answer": "c{14}{",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/2584.json"
+    },
+    {
+        "problem": "d the equation of the plane containing the points $(0,-1,-1),$ $(-4,4,4),$ and $(4,5,1).$  Enter your answer in the fo",
+        "solution": "se vectors:\n\\[\\begin{pmatrix} -4 \\\\ 5 \\\\ 5 \\end{pmatrix} \\times \\begin{pmatrix} 4 \\\\ 6 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} -20 \\\\ 28 \\\\ -44 \\end{pmatrix}.\\]We can scale this vector, and take $\\begin{pmatrix} 5 \\\\ -7 \\\\ 11 \\end{pmatrix}$ as the normal vector.  Then the equation of the plane is of the form\n\\[5x - 7y + 11z + D = 0.\\]Substituting the coordinates of any of the points, we find that the equation of the plane is $\\boxed{5x - 7y + 11z +",
+        "answer": "y + 11z + ",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/659.json"
+    },
+    {
+        "problem": "ate $\\log_",
+        "solution": "\\l",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1255.json"
+    },
+    {
+        "problem": "(19)+361=x$. Solve",
+        "solution": "This is just the binomial expans",
+        "answer": "60",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/1937.json"
+    },
+    {
+        "problem": "ts one ball from her bag and puts it into Bob's bag. Bob then randomly selects one ball from his bag and  puts it into Alice's bag. What is the probability that after this proces",
+        "solution": " only ",
+        "answer": "c{1}{",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/430.json"
+    },
+    {
+        "problem": "can 3 people be assigned to 5 different offices? (Each person gets",
+        "solution": ", and $3$ office",
+        "answer": "0",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1572.json"
+    },
+    {
+        "problem": "re not in the domain of\n\n$f(x)=\\frac{1}{|x^2+",
+        "solution": "+4",
+        "answer": "-",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/975.json"
+    },
+    {
+        "problem": "ll the integer roots of\n\\[x^4 + 5x^3 + 9x^2 - x - 14 = 0.",
+        "solution": "are $-14,$ $-7,$ $-2,$ $-1,$ $1,$ $2,$ $7,$ and $14.$",
+        "answer": ",1",
+        "subject": "Intermediate Algebra",
+        "level": 1,
+        "unique_id": "test/intermediate_algebra/1102.json"
+    },
+    {
+        "problem": "h is one less than twice its recipro",
+        "solution": "- 1) = 0$. We could also use the quadratic formula to find $x$: $$x = \\frac{-1 \\pm \\sqrt{1^2 - 4(1)(-2)}}{2}.$$ Either way, we find that $x = 1$ or $x = -2$. Since we want th",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/858.json"
+    },
+    {
+        "problem": "ets, and 3 Blinkets are equal to 7 Drinkets. In Trinkets, what is the value of 56 Dri",
+        "solution": "xt{ Blinkets}\n\\] by 6 to find that $\\boxed{6}$ Tr",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1436.json"
+    },
+    {
+        "problem": "pts does the graph of the parabola $x =",
+        "solution": "i+=xstep) {\n\nif(abs(i) >0.1) {\n\nTicksArrx.push(i);\n\n}\n\n}\n\nfor(i=ybottom+ystep; i<ytop; i+=ystep) {\n\nif(abs(i) >0.1) {\n\nTicksArry.push(i);\n\n}\n\n}\n\nif(usegrid) {\n\nxaxis(BottomTop(extend=false), Ticks(\"%\", TicksArrx ,pTick=gray\n\n(0.22),extend=true),p=invisible);//,above=true);\n\nyaxis(LeftRight(extend=false),Ticks(\"%\", TicksArry ,pTick=gray(0.22),extend=true),\n\np=invisible);//,Arrows);\n\n}\n\nif(useticks) {\n\nxequals(0, ymin=ybottom, ymax=ytop, p=axispen, Ticks(\"%\",TicksArry ,\n\npTick=black+0.8bp,Size=ticklength), above=true, Arrows(size=axisarrowsize));\n\nyequals(0, xmin=xleft, xmax=xright, p=axispen, Ticks(\"%",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/351.json"
+    },
+    {
+        "problem": "w, quadrilateral $CDEG$ is a square with $CD = 3$, and quadrilateral $BEFH$ is a rectangle. If $BE = 5$, how many units is $BH$? Express your answer as a mixed number. [asy]\nunitsize(5mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\npair A=(0,0), B=(3,0), C=(6,0), D=(9,0), Ep=(9,3), G=(6,3);\npair F0=bisector",
+        "solution": "angles $BCJ$ and $BDE$, we have  \\[\n\\frac{CJ}{BC}=\\frac{DE}{BD},\n\\] which after substituting becomes \\[\n\\frac{CJ}{4-3}=\\frac{3}{4}.\n\\] We solve to find $CJ=\\frac{3}{4}$, which implies that $GJ=3-\\frac{3}{4}=\\frac{9}{4}$.  Applying the Pythagorean theorem to triangle $GJE$, we find $EJ=\\sqrt{3^2+\\left(\\frac{9}{4}\\right)^2}=\\frac{15}{4}$.  Define $K$ to be the foot of the perpendicular from $G$ to side $EJ$.  By the simila",
+        "answer": "{4}{5}",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/826.json"
+    },
+    {
+        "problem": "atrix}$ and $\\overrightarrow{OB} = \\begin{pmatrix} -3 \\\\ -2 \\\\ 1 \\end{pmatrix}.$  Find the area of trian",
+        "solution": " \\right\\| = 6 \\sqrt{5}.\\][asy]\nunitsize(0.4 cm);\n\npair A, B, C, D;\n\nA = (0,0);\nB = (7,2);\nC = (1,3);\nD = B + C;\n\ndraw(A--B,Arrow(6));\ndraw(A--C,Arrow(6));\ndraw(B--C);\ndraw(B--D--C,dashed);\n\nlabel(\"$O$\", A, SW);\nlabel(\"$A$\", B, SE);\nlabel(\"$B$\"",
+        "answer": "qrt{5",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/477.json"
+    },
+    {
+        "problem": "r which the congruence $$8x\\equiv 1\\pmod{p}$$has no solutions $x$. De",
+        "solution": "rt",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/1128.json"
+    },
+    {
+        "problem": "y$ cards. If $x$ is at least $2$ and $y$ is at least $5$, then how many possible values of $x$ are the",
+        "solution": "mbinations $(x,y)$ are $(2,27)$, $(3,18)$, $(6,9)$, and $(9,6)$. There are $\\boxed{4}$ such ",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1353.json"
+    },
+    {
+        "problem": "termine the remaind",
+        "solution": " 54 \\eq",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 1,
+        "unique_id": "test/number_theory/342.json"
+    },
+    {
+        "problem": "ut using long division (which would be horribly nasty!), find the remainder when $f(x)$ is ",
+        "solution": "x)$ to compute $f(1)=-10$ and $f(-1)=16$. Thus we have the system of equations\n$$\\begin{c",
+        "answer": "13x",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1210.json"
+    },
+    {
+        "problem": "$z = 1+i$ and $w = \\dfrac{3",
+        "solution": "|\\dfrac{a}{b}\\right| = \\dfrac{|a|}{|b|",
+        "answer": "ac{5}{",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1232.json"
+    },
+    {
+        "problem": "what is the value of $x^3 - 2",
+        "solution": "x + 1 &= x(x^2)-2x + 1\\\\\n&=x(x+1) - 2x + 1\\\\\n&= x^2 + x -2x + 1\\\\\n&= x^2 - x + 1\\\\\n&",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/907.json"
+    },
+    {
+        "problem": "ands for buried treasure. If each island has a $\\frac{1}{5}$ chance of having treasure, wha",
+        "solution": "ure and the others will not. Therefore, the t",
+        "answer": "48}{1562",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/377.json"
+    },
+    {
+        "problem": "ppose that I have $6$ different books, $2$ of which are math books. In how many ways can I",
+        "solution": "etween the two math books. We see there is a total of $5$ o",
+        "answer": "8",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/1014.json"
+    },
+    {
+        "problem": "e $99^2+99+1$ in",
+        "solution": "+1=99(99+1)+",
+        "answer": "99",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/722.json"
+    },
+    {
+        "problem": ".7));\ndraw((0,0)--(27,0)--(15,9)--(0,9)--cycle);\nlabel(\"5 cm\",(21,4.5),NE);\nlabel(\"5 cm\",(7.5,9),N);\nlabel(\"3 cm\",(0,4.5),W);\nlabel(\"9 cm\",(13.5,0),S);\ndraw(rightanglemark((0",
+        "solution": "\\boxed{21}$ square centimeters. [asy]\ndefaultpen(linewidth(0.7));\ndraw((0,0)--(27,0)--(15,9)--(0,9)--cycle);\nlabel(\"5 cm\",(21,4.5),NE);\nlabel(\"5 cm\",(7.5,9),N);\nlabel(\"3 cm\",(0,4.5),W);\nlabel(\"9 cm\",(13.5,0),S);\ndraw(rightanglemark((0,9),(0,0",
+        "answer": "1",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1187.json"
+    },
+    {
+        "problem": " the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7",
+        "solution": "o will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$.",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "s the largest eight-digit base 2 intege",
+        "solution": "00000000_{2} = 1 \\c",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/691.json"
+    },
+    {
+        "problem": "mpute: $0.\\overline{7}-0.\\overline{4}+0.\\overline",
+        "solution": "s \\\\\n\\hline\n&9x &=& n &\n\\end{array}$$ This shows that $0.\\overline{n} = \\frac{n}{9}$.\n\nHence, our original problem reduces to computing $\\frac 79 - \\frac 49 + \\frac 29 = ",
+        "answer": "rac ",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/153.json"
+    },
+    {
+        "problem": " is the integer value of $x$ in the a",
+        "solution": "3^4 = 81$, which is $(9 + 81)/2 = 90/2 = \\boxed{45}$.",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/668.json"
+    },
+    {
+        "problem": "isfies $\\frac{1}{4}<\\frac{x}{7}<",
+        "solution": " $1$ and $2$, and $\\frac 73$ is between $2$ and $3$, the only integer $x$ between these",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1238.json"
+    },
+    {
+        "problem": "{-1}$ modulo $1000$. Express your answer as",
+        "solution": "erefore, $$997\\cdot 333\\equiv 1\\pmod{1000},$$and the inverse of $997$ modulo $1000$ is $\\bo",
+        "answer": "3",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/634.json"
+    },
+    {
+        "problem": "integer solutions to the congruence $$14u \\equiv 46 \\pmod",
+        "solution": "e by multiplying both sides by $7^{-1}$. (We know that $7^{-1}$ exists modulo $50$ because $7$ and $50$ are relatively prime.)\n\nReplacing each side of $49u\\equiv 161$ by a $\\pmod{50}$ equivalent, we have $$-u \\equiv 11\\pmod{50},$$ and thus $$u \\equiv -11\\pmod{50}.$$ This is the set of solutions to our original congrue",
+        "answer": "4",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/13.json"
+    },
+    {
+        "problem": "$x.$  Afterwards, Brahmagupta chooses $y.$  Archimedes wishes to minimize $z$ while Brahmagupta wishes to maximize $z.$  Assuming that Brahmagupta will play optimally, what value of $x$ ",
+        "solution": "n*}\nz &= -\\left( -\\frac{4x + 3}{2} \\right)^2 - (4x + 3) \\left( -\\frac{4x + 3}{2} \\right)^2 + 4x^2 \\\\\n&= 8x^2 + 6x + \\frac{9}{4}.\n\\end{align*}To minimize this expression, Archimedes should choose $x =",
+        "answer": "c{3}{8",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1791.json"
+    },
+    {
+        "problem": "left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ is $\\frac{255}{512}$",
+        "solution": "{4}\\left(\\frac{1-\\left(\\frac{1}{2}\\right)^n}{1-\\frac{1}{2}}\\right)=\\frac{2^n-1}{2^{n+1}}$.\n\nWe see",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2430.json"
+    },
+    {
+        "problem": "coins, all dimes and nickels. In total, the coins are worth ",
+        "solution": "vide both sides by 5 to get $2d+n=15$. From the first given equation, we have $d=11-n$. Substituting this into the simplified second give",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/2199.json"
+    },
+    {
+        "problem": "})$ for all positive integers $n.$ Given that $z_0=\\frac 1{137}+i,$ find $z_{2002}.$",
+        "solution": "z+_0+i}{z_0-i} ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1063.json"
+    },
+    {
+        "problem": "[\\frac{4+6a}{5}-\\frac{1+3a}{4}\\] as a ",
+        "solution": "ac{5+15a}{20}.\\] We combine the fractions, being careful to put the numerator of the second fraction in parentheses (as we are subtracting the entire numerator), yielding \\[\\frac{1",
+        "answer": "11+9a}{2",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2735.json"
+    },
+    {
+        "problem": "0p$. Express your answer in interval notation, reducing any fractions in your an",
+        "solution": "ity, we add $20p$ to both sides: $$20p > 12$$",
+        "answer": "t(\\frac{3}{5},\\fra",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2486.json"
+    },
+    {
+        "problem": ".  What is $\\cos \\angle RPS$?\n\n[asy]\n\npair R,P,Q,SS;\n\nSS = (-2,0);\n\nP = (0,0);\n\nQ = (2,0);\n\nR = rotate(aSin(7/25))*(1.5,0);\n\ndot(\"$S$\",SS,S);\n\nd",
+        "solution": "PQ = 1 - \\left(\\frac{7}{25}\\right)^2 = \\frac{576}{625}$.  Since $\\an",
+        "answer": "\\frac{2",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/947.json"
+    },
+    {
+        "problem": "domain of the function $\\log x^2$ is $x < a$ or $",
+        "solution": "follows that the domain of this function is $x < 0$ or $x > 0$. Therefore, our answer is $0 + 0 = \\boxe",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/623.json"
+    },
+    {
+        "problem": "esents the distances from $P$ to the planes $x - z = 0,$ $x - 2y + z = 0,$ and $x + y + z = 0.$  Let $S$ be the set of points $P$ su",
+        "solution": "is\n\\[\\frac{4}{3} \\p",
+        "answer": " ",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/1056.json"
+    },
+    {
+        "problem": " is the remainder when $1 + 2 + 3 + 4 ",
+        "solution": "the only remaining terms are $9$ and $10,$ and $9$ is obviously also divisible by $9,$ hence we only need",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 1,
+        "unique_id": "test/number_theory/466.json"
+    },
+    {
+        "problem": "w(dir(360*i/7+90)--dir(360*(i+1)/7+90));\n}\npair A = dir(360*3/7+90);\npair F = dir(360*4/7+90);\npair C = A+dir(90)*(F-A);\npair D = C+F-A;\npair B = dir(360*2/7+90);\n\ndraw(A--C--D--F);\n\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,W);\nlabel(\"$C$\",C,SE);\nlab",
+        "solution": "grees and the measure of angle $CAD$ is 90 degrees.  Their difference, $\\angle BAC$, measures  \\[\\frac{900}7-\\frac{630}7=\\boxed{\\frac{270}7\\text{ degre",
+        "answer": "270}7\\text{ d",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1003.json"
+    },
+    {
+        "problem": "ng metal from the corners of a cube that has the shortest possible side lengths. How many cub",
+        "solution": "10.5,6)..(6,6.9)..(1.5,6),linetype(\"2 4\"));\ndraw((10.5,6)..(6,5.1)..(1.5,6));\ndraw((0,0)--(9,0)--(9,9)--(0,9)--cycle);\ndraw((0,9)--(3,12)--(12,12)--(9,9));\ndraw((12,12)--(",
+        "answer": "1",
+        "subject": "Geometry",
+        "level": 3,
+        "unique_id": "test/geometry/477.json"
+    },
+    {
+        "problem": "\ndot((0,2),linewidth(9bp));\ndot((1,1),linewidth(9bp));\ndot((2,1),linewidth(9bp));\ndot((1,2),linewidth(9bp));\ndot((2,2),linewidth(9bp));\n\nfilldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black);\nfilldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black);\nfilldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);\n\nfilldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black);\nfilldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black);\nfilldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);\n\nfilldraw((2.95,1.95)--(3.05,1.95)--(3.05,",
+        "solution": "m);\ndefaultp",
+        "answer": "9",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/181.json"
+    },
+    {
+        "problem": "t(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(",
+        "solution": "xed{1}.\\",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1787.json"
+    },
+    {
+        "problem": "polynomial \\[f(x)=3x^4+5x^2-9x-2.\\] If $g(x)$ is equal to the polynomial",
+        "solution": "know that $g(1)=f(1-1)=f(0)$.  Therefore the sum of the coefficients is equal t",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/776.json"
+    },
+    {
+        "problem": " being chosen. What is the probability that the points lie on the same straight line?\n\n[asy]\nsize(50);\nfor (int i=0; i<3; ++i) {\nfor (int j=0; ",
+        "solution": "ree collinear points: 3 sets of ",
+        "answer": "rac{2}",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/230.json"
+    },
+    {
+        "problem": " $555_{10}$ in ",
+        "solution": " than $55$ is $5^2=25$, and the greatest multiple of $25$ less than $55$ is ",
+        "answer": "210_",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/847.json"
+    },
+    {
+        "problem": "ts $\\frac{2}{3}$ of the pie.  How much of the pie do Louis and Jack eat altogether?",
+        "solution": "",
+        "answer": "rac{13",
+        "subject": "Prealgebra",
+        "level": 1,
+        "unique_id": "test/prealgebra/1272.json"
+    },
+    {
+        "problem": "that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct v",
+        "solution": "",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " to 121, since multiplication is carried out before addition. However, we can obtain values other than 121 for this expression if we are allowed to change it by inserting parentheses. For example, we can obtain 144 by writing \\[\n(2\\cdot (3\\cdot 4)) \\cdot (",
+        "solution": "th a l there a",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1139.json"
+    },
+    {
+        "problem": "Let $F_1 = (10,2)$ and $F_ 2= (-16,2).$  Then the set of points $P$ such that\n\\[|PF_1 - PF_2| = 24\\]form a hyperbola.  Th",
+        "solution": "nce between the foci is $2c = 26,$ so $c = 13.$  Then $b^2 = c^2 - a^2 = 169 - 144 = 25,$ s",
+        "answer": "6",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1126.json"
+    },
+    {
+        "problem": "ction $f$ satisfies the functional equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  I",
+        "solution": "sitive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$  This factors as $(n - ",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "alues of $x$ is it true that $x^2 - 5x - 4 \\le 10$?",
+        "solution": "2) \\le 0$. Thus, $",
+        "answer": " \\in [",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/101.json"
+    },
+    {
+        "problem": "_8 \\cdot 7_8.$ Express your answer",
+        "solution": "&& &2_8}.",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/864.json"
+    },
+    {
+        "problem": " measure of the smallest angle, and the other two angles are both right angles. How many degrees ",
+        "solution": "alue memorized.)  Since two of the angles are right, the other two angles must add up to 180.  Name the smaller angle $x$ - since the larger angle is double",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1807.json"
+    },
+    {
+        "problem": "$b.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, L, R;\nint i, n;\n\nfor (i = -8; i <= 8; ++i) {\n  draw((i,-8)--(i,8),gray(0.7));\n  draw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0),Arrows(6));\ndraw((0,-8)--(0,8),Arrows(6));\n\nA = (-5,4);\nB = (-1,3);\nL = extension(A",
+        "solution": " \\end{pmatrix}.\\]To get an",
+        "answer": "frac{",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/96.json"
+    },
+    {
+        "problem": "that $xyz = 2.$  Find the minimum value of\n\\[x^4 + 4y^2 + ",
+        "solution": "y occurs when $x^4 = 2y^2 = 4z^2.$  Using the condition $xyz = 2,$ we can solve to get $x = y = \\sqrt{2}$ and $z = 1,$ so the minimum value is $\\boxed{16",
+        "answer": "1",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/966.json"
+    },
+    {
+        "problem": "$A$ lies somewhere within or on the square which has opposite corners at $(0,0)$ and $(2,2)$. Point $B$ lies somewhere within or on the square which has opposite corners ",
+        "solution": "oordinate for $B$ is 3 and the least possible $y$-coordinate for $A$ is 0.  The g",
+        "answer": "ac{3}",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2700.json"
+    },
+    {
+        "problem": "to divide $10$ by $\\frac{2}{3}$, but he cannot remember how to do that.",
+        "solution": "n.  The reciprocal of $\\frac{2}{",
+        "answer": "c{3}{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1761.json"
+    },
+    {
+        "problem": "= 2$, what is the product of all possible",
+        "solution": "$, or $x-4 = -12$, meaning $x=-8$.  Our ",
+        "answer": "28",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/425.json"
+    },
+    {
+        "problem": "\\]where $a$ is some number.\n\nWhat is the largest value of $a$ such that the graph of $y=f(x)$ intersects every horizontal line ",
+        "solution": "han or e); note how the parabola and line meet",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/892.json"
+    },
+    {
+        "problem": "ve integer $n$ such that all the roots of $z^4 + z^2 + 1 = 0$ ",
+        "solution": "ts ofex number $e^{2 \\pi i/6}$",
+        "answer": "",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/285.json"
+    },
+    {
+        "problem": "onzero digit to the right of the decimal point in the d",
+        "solution": "7}{500} = \\frac{274}{1000} = 0.274$ and the last nonzero digit is $\\boxed{4}$",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 2,
+        "unique_id": "test/number_theory/255.json"
+    },
+    {
+        "problem": " whole-number divisors does",
+        "solution": "y, we may choose 0, 1, or 2 as the exponent of 7.  In total, there are $3\\times 3=9$ possibilities for th",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/572.json"
+    },
+    {
+        "problem": " from the barn, which is 3 miles away from his house. However, the bucket has a leak in it. For each mile he walks, there is $\\frac{2}{3}$ as much milk in the ",
+        "solution": "tially, the amount in the bucket when he gets home is $2 \\cdot \\left(\\frac{2}{3}\\right)^{3}$. Because $\\left(\\frac{a}{b}\\right)^{n} = \\frac{a^{n}}{b^{n}}$, this expression is equivalent to $2 \\cdot \\frac{2^{3}}{3^{3}}$. Because $n^{a} \\cdot n^{b} = n^{a+b}$, this equals $\\frac{2^{4}}{3^{3}}$. Multiplying the exponents out, we get $\\boxed{",
+        "answer": "\\frac{",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1961.json"
+    },
+    {
+        "problem": "three squigs and one goolee. Two treeks and one goolee are equal in weight to one squig. The ",
+        "solution": "in terms of $t$, we want to eliminate $g$. Add the two equations to obtain",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1035.json"
+    },
+    {
+        "problem": " how many two-digit primes is the",
+        "solution": ", and 71 are (we can verify this by d",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1743.json"
+    },
+    {
+        "problem": " the line with equation $\\frac{x}4 + \\frac{y}{12} = 1$, then what is the value of $a +",
+        "solution": "ides, and then multiplying by 12.  This gives $y = -3x +12$, which tells us that the slope is $-3$ (and confirms our solution for the $y$-intercept).  We also could have noted that since we have al",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1934.json"
+    },
+    {
+        "problem": "on of the set of all the prime numbers less than 30 and the set of all t",
+        "solution": "prime. ",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 2,
+        "unique_id": "test/number_theory/914.json"
+    },
+    {
+        "problem": "a 16 square inches. The figure represents the pieces of a Chinese tangram in which all the triangles are isosceles and piece \"e'' is a square. What is the area of the gray piece, in square inches?\n\n[asy]\nfill((2,0)--(4,2)--(4,0)--cycle,gray(.7));\ndraw((0,0)--(0,4)--(4,4)--(4,0)--cycl",
+        "solution": "qrt{2}$, these are",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/631.json"
+    },
+    {
+        "problem": "sided die with faces numbered 1, 2, 3, 4, 5, and 6, the probability of obtaining face $F$ is greater than $1/6$, the probability of obtaining the face opposite face $F$ is less than $1/6$, the probability of obtaining each of the other faces is $1/6$, and the sum of the numbers on each",
+        "solution": "fore $$\\begin{aligned}{{47}\\over{288}}&=\n4\\left({1\\over6}\\right)^2+2\\left({1\\over6}+x\\right)\n\\left({1\\over6}-x\\right)\\cr&=\n{4\\over36}+2\\left({1\\over36}-x^2\\right)\\cr&=\n{1\\over6}-2x^2.\\end{ali",
+        "answer": "9",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/1003.json"
+    },
+    {
+        "problem": "ollowing expression in $x$: $$19",
+        "solution": "9x - 4x) + (1 - 81) = \\boxed{1",
+        "answer": " - 8",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1298.json"
+    },
+    {
+        "problem": "d{pmatrix}$ to $\\begin{pmatrix} 7 \\\\ -1 \\end{pmatrix}.$  Find the image of the line $y = 2x + 1$ under $\\mathbf{M}.$  Express your answer in the form \"$y ",
+        "solution": " 7 \\\\ -1 \\end{pmatrix}.\\]This gives us $\\mathbf{M} \\begin{pmatrix} 0 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 3 \\end{pmatrix},$ so\n\\[\\mathbf{M} \\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} -1 \\\\ 1 \\end{pmatrix}.\\]Finally,\n\\begin{align*}\n\\mathbf{M} \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix} &= \\mathbf{M} \\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix} + 3 \\mathbf{M} \\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix} \\\\\n&= \\begin{pmatrix} 4 \\\\ 2 \\end{pmatrix} + 3 \\begin{pmatrix} -1 \\\\ 1 \\end{pmatrix} \\\\\n&= \\begin{pmatrix} 1 \\\\ 5 \\end{pmatrix}.\n\\end{align*}Since $\\begin{pmatrix} 0 \\\\ 1 \\end{pmatrix}$ and $\\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix}$ lie on the line $y = 2x + 1",
+        "answer": "x + 3",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/323.json"
+    },
+    {
+        "problem": "o the bags. He is told to place the greatest number of pencils possible into each of the three bags while also keeping the number of pencils i",
+        "solution": "to each bag.  Therefore, Zach can have at m",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 1,
+        "unique_id": "test/number_theory/612.json"
+    },
+    {
+        "problem": " What is the probability that $x+y \\le 4$? Express your answer as a common fraction",
+        "solution": "le is $\\boxed{\\frac{1}{4}}$.\n\n[asy] import graph; size(20",
+        "answer": "ac{1}",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/803.json"
+    },
+    {
+        "problem": "ch that $3m + 4n = 100$, what is the smallest possible valu",
+        "solution": "e still giving us integer solutions for $m$ and $n$ to the equation $3m + 4n = 100$.\n\nBy trial and error, we can find that the solution to $3m + 4n = 100$ that makes $m$ closest to $\\frac{100}{7}$ is $(m,n) = (16,13)$.  Then we ha",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/991.json"
+    },
+    {
+        "problem": "money for an upcoming trip. They sell $54$ cookies at three for $\\$1$, and $20$ cupcakes at $\\$2$ each, and $35$ brownies at $\\$1$ each",
+        "solution": " earned from selling brownies. At a price of $\\$1$ each, the club earned $35\\cdot\\$1=\\$35$ from selling brownies.\n\nNow let's add up these numbers to find out how much the club earned in total and subtract $\\$15$ from that number to find the club's profit. We obtain \\begin{align*}\n\\$18+\\$40+\\$35-\\$15&=\\$18+\\$40+\\$35-\\$15\\\\\n&=\\$18+\\$40+\\$35+(-\\$15)\\\\\n&=\\$18+\\$40+(\\$35+(-\\$15))\\\\\n&=\\$18+\\$40+(\\$20)\\\\",
+        "answer": "7",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1840.json"
+    },
+    {
+        "problem": "-\\frac{1}{2} \\right).$  Express your an",
+        "solution": "arcsin \\left( -\\fra",
+        "answer": "frac{\\p",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/1105.json"
+    },
+    {
+        "problem": "Five pencils and a jumbo eraser cost $\\$1.82$. No prices include tax. In cents",
+        "solution": "gn*}\n3p + e &= 124 \\\\\n5p + e &= 182 \\\\\n\\end{align*} Subtracting the first equation from the second giv",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2743.json"
+    },
+    {
+        "problem": "\n[asy]\nunitsize(1cm);\ndraw(Circle((0,0),2),linewidth(0.7));\ndraw((1.7,1)--(-1.7,-1),linewidth(0.7));\ndraw((1.7,-1)--(-1.7,1),linewidth(0.7));\ndraw((0,2)--(0,-2));\nlabel(\"1\",(0.8,0.5),NW);\nlabel(\"2\",(0.8,-0.5),SW);\nlabel(\"6\",(-0.8,0.5),NE);\nlabel(\"9\",(-0.8,-0.5),SE);\nlabel(\"3\",(-0.7,0),W);\nlabel(\"7\",(0.7,0),E);\ndraw((-2.8,0)--(-2.1,0),Arrow);\nlabel(\"Pointer\",(-2.8,0),W);\nfill((3,0)--(3,1)--(4,1)--(4,0)--cycle,gray(0.7));\nfill((3,-2)--(3,-1)--(4,-1)--(4,-2)--cycle,gray(0.7));\nfill((4,1)--(4,2)--(5,2)--(5,1)--cycle,gray(0.7));\nfill((4,-1)--(4,0)--(5,0)--(5,-1)--cycle,gray(0.7));\nfill((5,0)--(5,1)--(6,1)--(6,0)--cycle,gray(0.7));\nfill((5,-2)--(5,-1)--(6,-1)--(6,-2)--cycle,gray(0.7));\ndraw((3,-2)--(3,2)--(6,2)--(6,-2)--cycle,linewidth(0.7));\ndraw((3,-1)--(6,-1),linewidth(0.7));\ndraw((3,0)--(6,0),linewidth(0.7));\ndraw((3,1)--(6,1),linewidth(0.7",
+        "solution": "hey're determined by separate spins of the wheel.\n\nThe shaded squares are those that indi",
+        "answer": "rac{1",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/282.json"
+    },
+    {
+        "problem": "ur distinct circles are drawn in a plane. What is the maximum ",
+        "solution": "uration shows that $\\boxed{12}$ points of intersec",
+        "answer": "1",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/339.json"
+    },
+    {
+        "problem": "3,$ $y_1,$ $y_2,$ and $y_3$ be real numbers such that\n\\begin{align*}\n(x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\\n(x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\\n(x_2",
+        "solution": "es of the triangle are 3, 4, and 5, which is a right triangle.  Therefore, its area is $\\frac{1}{2} \\cdot 3 \\cdot 4 = 6.$  Then\n\\[\\begin{vmatrix} x_1 &",
+        "answer": "4",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/986.json"
+    },
+    {
+        "problem": " concrete is proportional to their volume.  If a 1 inch cube costs $\\$1.30$ to make while a 2 inch cube costs $\\$6.80$, then how much would a 3 inch cube co",
+        "solution": " are given that \\begin{align*} 6x+y &=\\$1.30 \\\\ 24x+8y&= \\$6.80 \\end{align*} Subtracting 4 times the first equation from the second gives $4y=\\$1.60$, so $y=\\$0.40",
+        "answer": "\\$1",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2780.json"
+    },
+    {
+        "problem": "values of $x$ is the expression $\\frac{",
+        "solution": "he square root of both sides, we have $x^2-9=",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1425.json"
+    },
+    {
+        "problem": "f the triangle is $16\\sqrt{3}$ square centimeters. How long, in centimeters, is a diagonal of the square? Express your answer in simplest radical form.\n\n[asy]\ndefaultpen(linewidth(1));\ndraw((0,0)",
+        "solution": "}\\right)=\\frac{x^2\\sqrt{3}}{4}$. Setting this equal to $16 \\sqrt{3}$, we have that $\\frac{x^2\\sqrt{3}}{4}=16\\sqrt{3}.$\n\nSolving for $x$, we get that $x=8$. Since the side length of the triangle is $8$ and the square and triangle have equal perimeters, the square has a side length of $\\frac{8 \\cdot 3}{4}=6$. If we draw the diagonal of the square, we notice that it splits the square into two $45-45-90$ triangles with legs of ",
+        "answer": "rt{2",
+        "subject": "Geometry",
+        "level": 3,
+        "unique_id": "test/geometry/843.json"
+    },
+    {
+        "problem": "^\\circ + \\sin^2 18^\\ci",
+        "solution": "rc \\cos^2 36^\\circ}{2 \\cos^2 18^\\circ}.\n\\end{align*}Then by double angle formula,\n\\begin{align*}\n\\frac{4 \\sin^2 18^\\circ \\cos^2 18^\\circ \\cos^2 36^\\circ}{2 \\cos^2 18^\\circ} &= \\frac{\\sin^2 36^\\circ \\cos^2 36^\\circ}{2 \\c",
+        "answer": "c{1}{",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/681.json"
+    },
+    {
+        "problem": "ow if the 2 boys insist on sitting next to each othe",
+        "solution": "  So the number of seating arrangements in which the boy",
+        "answer": "!080",
+        "subject": "Counting & Probability",
+        "level": 3,
+        "unique_id": "test/counting_and_probability/508.json"
+    },
+    {
+        "problem": "th $AB=AC$ and altitude $AM=11.$ Suppose that there is a point $D$ on $\\overline{AM}$ with $AD=10$ and $\\angle BDC=3\\angle BAC.$  Find the perimeter of triangle $ABC.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, C, D, M;\n\nA = (0,11);\nD = (0,1)",
+        "solution": "D} = \\frac{11}{5} BD.\\]By the Pythagorean Theorem on right triangles $AMB$ and $DMB,$\n\\begin{align*}\nBM^2 + 11^2 &= AB^2, \\\\\nBM^2 + 1^2 &=",
+        "answer": "t{5} + 1",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/1281.json"
+    },
+    {
+        "problem": "N$. Which nonzero value of $N$ makes this number divisib",
+        "solution": " = 9 + N$ must be divisible by $3$.  Since $9$ is divisible by $",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/65.json"
+    },
+    {
+        "problem": "y the equation $x = \\!\\sqrt{11-2x} + ",
+        "solution": "e we squared the equation, we must  check if our solutions are extraneous. For $x=5$, the equation reads $5 = \\!\\sqrt{11-10} + 4$, which is true. If $x=1$, we have $1 = \\!\\sqrt{11-2} + 4$, which is not tr",
+        "answer": "=",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2193.json"
+    },
+    {
+        "problem": "of 8, the last group has 5 students. If their teacher instead puts them in groups of 6, the last group has 3 students. What is the ",
+        "solution": "nese Remainder Theorem, the integers $x$ satisfy",
+        "answer": "6",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/149.json"
+    },
+    {
+        "problem": "ly on a side wall ($10^{\\prime}$ by $8^{\\prime}$), one foot from the ceiling and one foot from the back wall ($12^{\\prime}$ by $8^{\\prime}$). The gecko spots a fly on the opposite side wall, one foot from the floor and one foot from the front wall. What is the length of th",
+        "solution": "e room)el(\"12\", (10,0)--(22,0)); ",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/880.json"
+    },
+    {
+        "problem": "xpression $ab+5b+2",
+        "solution": "cation of Simon's Favorite Factoring Tri",
+        "answer": ")(b+2",
+        "subject": "Intermediate Algebra",
+        "level": 1,
+        "unique_id": "test/intermediate_algebra/431.json"
+    },
+    {
+        "problem": "circular table if all the members of each party all sit next to each other?  (Two seatings are considered equivalent if one is a ro",
+        "solution": " the other way around. Either way, there are $5!$ ways to put the Democrats in their seats, and $5!$ ways to put the Republicans in their seats. S",
+        "answer": "88",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/159.json"
+    },
+    {
+        "problem": " daps = 7 yaps, and 5 yaps = 3 bap",
+        "solution": "ultiply $4\\te",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/2086.json"
+    },
+    {
+        "problem": "trix} \\times \\mathbf{v} = \\begin{pmatrix} 90 \\\\ 30 \\\\ 30 \\end{pmatrix}.\\]Find the vector $\\mathbf{v}$ that has the sma",
+        "solution": "nd equation, $c = -5a - 30.$  From the third equation, $b = 2a + 30.$  We want to minimize the ",
+        "answer": "atrix} -7 \\\\ 16 \\\\ 5 ",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/145.json"
+    },
+    {
+        "problem": " Martha gets to the same location by walking along its length and width. The field is 300 feet wide and 400 feet long. How many feet less ",
+        "solution": "field are $300+400=",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1252.json"
+    },
+    {
+        "problem": "line is parameterized by\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 8 \\\\ -1 \\end{pmatrix} + t \\begin{pmatrix} ",
+        "solution": "1 + 3t \\\\\n&= -1 + 3 \\cdot \\frac{x - 8}{2} \\\\\n&= \\frac{3}{2} x - 13.\n\\end{align*}Thus, $(m,b) = \\boxed{\\left(",
+        "answer": "frac{3}{2}, -13",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/541.json"
+    },
+    {
+        "problem": ")$ when it is divided by $(x - 1)(x - 4),$ and remainder $2R(x)$ when it is divided by $(x - 2)(x - 3).$  Given t",
+        "solution": "= (x + q)(x - 2)(x - 3) + 2(cx + d).\\]Comparing the coefficients of $x^2,$ we get $a = q - 5.$  Hence, $p = q.$\n\nComparing the coefficients of $x$ in both equations, we get\n\\begin{align*}\nb &= c - 5p + 4, \\\\\nb &= 2c - 5p + 6.\n\\end{align*}Subtracting the",
+        "answer": "5",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/117.json"
+    },
+    {
+        "problem": " the smallest real number $x$ in the domain of the ",
+        "solution": " it out, we can observe that $(x-3)^2$ is the square ",
+        "answer": "11}{2}",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/1031.json"
+    },
+    {
+        "problem": "=420,\\\\ x_{4}&=523,\\ \\text{and}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{when}\\ n\\geq5, \\end{align",
+        "solution": "n the sequence repeats with period $10.$ Thus, \\[\\begin{aligned} x_{531} + x_{753} + x_{975} &= x_1 + x_3 + x_5 \\\\ &= x_1 + x_3 + (x_4-x_3+x_2-x_1) \\\\ &= x_2 + x_4 \\\\ &= ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/90.json"
+    },
+    {
+        "problem": "\\[\\sin (\\arcsin 0.4 + \\arcsin 0.5) \\cdot \\",
+        "solution": "(1 - \\sin^2 y) - (1 - \\sin^2 x) \\sin^2 y \\\\\n&= \\sin^2 x - \\sin^2 x \\sin^2 y - \\sin^2 y + \\sin^2 x \\sin^2 y \\\\\n&= \\sin^2 x - \\sin^2 y.\n\\end{align*}Taking $x = \\arcsin 0.5$ and $y = \\arcsin 0.4,$ we get\n\\begin{align*}\n\\sin (\\arcsin 0.5 + \\arcsin 0.4) \\cdot \\sin (\\arcsin 0.5 - \\arcsin 0.4) &= ",
+        "answer": "rac{9}",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/742.json"
+    },
+    {
+        "problem": "numbers $a \\neq 0$ and $b,$ such that\n\\[f(x) - f(a) = (x - a)^2 (x - b).\\]En",
+        "solution": " (",
+        "answer": "-2,",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/47.json"
+    },
+    {
+        "problem": "the measure of an interior angle is 6.5 times the measure of an exter",
+        "solution": " is $\\frac{360}{n}$ degrees.  Solving  \\[\n\\frac{180(n-2)}{n}=6.5\\cdot\\left(\\frac{360}{n}\\right),\n\\]",
+        "answer": "5",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/483.json"
+    },
+    {
+        "problem": "turn (-sqrt(8*x));\n}\n\npair A, B, C, D;\n\nA = (-1,1);\nB = (2,4);\nC = (-1,-1);\nD = (2,-4);\n\ndraw(graph(upperparab,0,3));\ndraw(graph(lowerparab,0,3));\ndraw(Circle((0,0),sqrt(2)));\ndraw(interp(A,B,-0.2)--interp(A,B,1.2));\ndraw(interp(C,D,-0.2)--interp(C,D,1.2));\ndraw(A--C);\ndraw(B--D);\n\ndot(A);\ndot(B);\ndot(C);\ndo",
+        "solution": "erparab (real x) {\n  return (-sqrt(8*x));\n}\n\npair A, B, C, D;\n\nA = (-1,1);\nB = (2,4);\nC = (-1,-1);\nD = (2,-4);\n\ndraw(graph(upperparab,0,3));\ndraw(graph(lowerparab,0,3));\ndraw(Circle((0,0),sqrt(2)));\ndraw(interp(A,B,-0.2)--interp(A,B,1.2));\ndraw(interp(C,D,-0.2)--interp(C,D,1.2));\ndraw(A--C);\ndraw(B--D);\n\nlabel(\"$y = x + 2$\", interp(A,B,1.3), NE);\nlabel(\"$y = -x - 2$\", interp(C,D,1.3), SE);\n\ndot(A);\ndot(",
+        "answer": "5",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1779.json"
+    },
+    {
+        "problem": "(10,0),linewidth(1));\nlabel(\"10 cm\",(5,3),N);\nlabel(\"10 cm\",(5,0),S);\nlabel(\"3 cm\",(0,1.5),W);\nlabel(\"3 cm\",(10,1.5),E);\ndraw((0,2.5)--(.5,2.5)--(.5,3));\ndraw((10,2.5)--(9.5,2.5)--(9.5,3)",
+        "solution": "e, because any figure with fou",
+        "answer": "x{ cm}^",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1114.json"
+    },
+    {
+        "problem": "t common factor of 6432 and 132 is increase",
+        "solution": "ropert",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/45.json"
+    },
+    {
+        "problem": "$ and $b$ are different prime numbers greater than 2. How many whole-n",
+        "solution": "ferent prime numbers greater than",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/1287.json"
+    },
+    {
+        "problem": "te the product of the number $5+\\sqr",
+        "solution": "o n",
+        "answer": "2",
+        "subject": "Intermediate Algebra",
+        "level": 1,
+        "unique_id": "test/intermediate_algebra/149.json"
+    },
+    {
+        "problem": "uilateral triangles. If the perimeter of one of the triangles is 21 inches, what is the ",
+        "solution": "erimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "of the equation $z^4+4z^3i-6z^2-4zi-i=0$ are the vertices of a convex polygon in the complex plane.  The area of this polygon can be expressed in ",
+        "solution": "the complex plane.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, C, D;\n\nA = 2^(1/8)*dir(45/4);\nB = 2^(1/8)*dir(45/4 + 90);\nC = 2^(1/8)*dir(45/4 + 180);\nD = 2^(1/8)*dir(45/4 + 270);\n\ndraw(A--B--C--D--cycle);\ndraw((-1.5,0)--(1.5,0));\ndraw((0,-1.5)--(0,1.5));\n\ndot(\"$w$\", A, E);\ndot(\"$iw$\", B, N);\ndot(\"$-w$\", C, W);\ndot(\"$-iw$\", D, S);\n[/asy]\n\nFrom the equation $w^4 = 1 + i,$ $|w^4| = |1 + i|.$  Then $|w|^4 = \\sqrt{2},$ so $|w| = 2^{1/8}.$  Therefore, the side length of the square is\n\\[|w - iw| = |w||1 - i| = 2^{1/8} \\sqrt{2} = 2^{5/8},\\]so the area of",
+        "answer": "1",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/1201.json"
+    },
+    {
+        "problem": "uate $(1+2i",
+        "solution": " obtain $(1+2i)6-3i=6+12i-3i=\\boxed{6+9i",
+        "answer": "6+",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1098.json"
+    },
+    {
+        "problem": "$66,200$ in the account to finance the purchase of a house. What is the minimal compound interest rate that the savings account must provide? Express your answer as a percentage, but do not include the percent sign",
+        "solution": "the quadratic as",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2427.json"
+    },
+    {
+        "problem": " = \\frac{1 + \\sqrt{5}}{2}.\\]Find\n\\[z^{85} + \\frac{1}{z^{85}",
+        "solution": "nce, $z^4 - z^3 + z^2 - z + 1 = 0.$  Then\n\\[(z + 1)(z^4 - z^3 + z^2 - z + 1) = 0,\\]which expands as $z^5 + 1 = 0.$  This gives us $z^5 = -1.$\n\nTherefore,\n\\[z^{85} + \\frac{1}{z^{85}} = (z^5)^{17} + \\frac{1}{(z^5)^{17",
+        "answer": "-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1408.json"
+    },
+    {
+        "problem": " integers $a$, $b$, and $2009$, with $a<b<2009$, form a geo",
+        "solution": "r than $1$. Hence, there is only one possibility: the ratio must be $7$, and thus $b=7\\cd",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/791.json"
+    },
+    {
+        "problem": "6-9+6=3$. If we only add parentheses (and not rearrange the order of the terms), what is the minimum possible value this expression can obtain? (For the purposes of this problem, we cannot change addition or subtraction into multiplication. For example, $ (1+2+",
+        "solution": "to minimize this expression's value, we want to subtract as much as possible. The expression is thus minimized when parentheses are plac",
+        "answer": "-",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1733.json"
+    },
+    {
+        "problem": " $n \\ge 1,$ and $f(1) = f(1986),$ compute\n\\[f(1) + f(2) + f(3) ",
+        "solution": " 4 + \\dots + 1983 - 1984 + 1985 &= (1 - 2) + (3 - 4) + \\dots + (1983 - 1984) + 1985 \\\\\n&= (-1) + (-1) + \\dots + (-1) + 1985 \\\\\n&= -\\frac{1984}{2} + 1985 \\\\\n&= 993.\n\\end{align*}Hence,\n\\[f(2) + f(3) + \\dots + f(1986) = 993 - 2f(1) - 2f(2) - \\dots - 2f(1985).\\]Then\n\\[2f(1) + 3f(2) + 3f(3) + \\dots + 3f(1985) + f(1986) = 993.\\]Since $f(1986) = f(1),$\n\\[3f(1) + 3f(2) + 3f(3) + \\dots + 3f(1985) = 993.\\]Therefore, $f(1) + f(2) + f(3) + \\dots + f(1985)",
+        "answer": "3",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1462.json"
+    },
+    {
+        "problem": "ind the sum of all complex solutions of the equation\n\\[\\frac{1}{x^2 - 1} +",
+        "solution": "the denominators, we get\n\\begin{align*}\n&x(x^2 -",
+        "answer": "}{1005}",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1279.json"
+    },
+    {
+        "problem": "d as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac",
+        "solution": "0)\\left(\\frac{21}{30}\\right)=\\boxe",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "se three kinds of cookies on the tray. How many different assortments of six cookies can be selected? (Note that cookies of the same type are not distingu",
+        "solution": "3 o2,2",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/1009.json"
+    },
+    {
+        "problem": "h that one of the vertices of the triangle coincides with the vertex of the parabola.  Find the side l",
+        "solution": "15,15));\n\ndot(\"$A = (a,\\frac{a^2}{8})$\", A, E);\ndot(\"$B = (-a,\\frac{a^2}{8})$\", B, W);\ndot(\"$O = (0,0)$\", O, S);\n[/asy]\n\nThen $AB^2 = (a + a)^2 = 4a^2,$ and\n\\[OA^2 = a^2 + \\frac{a^4}{64}.\\]Hence, $4a^2 = a^2 + \\frac{a^4}{64}.$  Then $3a^2 = \\frac{a^4}{64},$ so $a^2 = 3 \\cdot 64,$ which means $a = 8 \\sqrt{3}.$\n\nTherefore, the side length of the triang",
+        "answer": "sqrt{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1405.json"
+    },
+    {
+        "problem": "Let $\\omega$ be a complex number such that $\\omega^3 = 1.$  Find all possible values of\n\\[\\fra",
+        "solution": "ac{2 + \\omega + \\omega^2}{1 + \\omega + \\omega^2 + \\omega^3} \\\\\n&= \\frac{2 +",
+        "answer": "",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/1252.json"
+    },
+    {
+        "problem": "iplying by each successive integer beginning with 1.  For  instance, the second term is produced by adding  1 to the first term; the third term is produced by  multiplying the second term by 1; the fourth term  is produced by a",
+        "solution": ", then add five to 124 to make ",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1184.json"
+    },
+    {
+        "problem": "y,z)$ that satisfy\n\\[2x = 3y = -z\\]is a line.\n\nThe set of points $(x,y,z)$ that satisfy\n\\[6x = -",
+        "solution": "matrix} = \\begin{pmatrix} t/6 \\\\ -t \\\\ -t",
+        "answer": "circ",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/927.json"
+    },
+    {
+        "problem": " What is the probability that the product of the two numbers is a multiple of 5",
+        "solution": " create $5 \\times 5 = 25$ number pairs whose product is NOT multiples of 5.  This leaves $36 - 25 = 11$ ways to get a multiple of $5$, so the probability is $\\boxed",
+        "answer": "\\frac{",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/1114.json"
+    },
+    {
+        "problem": "ess $5^5\\div5^4-5^3+5^2\\c",
+        "solution": "nition of subtraction and the asso",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1555.json"
+    },
+    {
+        "problem": "2^{235423523})}",
+        "solution": ", so ou",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 1,
+        "unique_id": "test/prealgebra/1747.json"
+    },
+    {
+        "problem": "ue $\\textbf{odd}$ integer $t$ such that $0<t<23$ and ",
+        "solution": "e \\begin{align*}\n(-4)\\cdot (-6) &= 4\\cdot 6 \\\\\n&\\equiv 1\\pmod{23},\n\\end{align*} so $-4$ and $-6$ are each other's inverses $\\pmod{23}$. Since $-4\\equiv 19\\pmod{23}$ and $-6\\equiv 17\\pmod{23}$, the an",
+        "answer": "7",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/1065.json"
+    },
+    {
+        "problem": "erline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ bisects angle $\\angle BAD$, and $[ABCD]=42$, then compute ",
+        "solution": " $K lab",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/965.json"
+    },
+    {
+        "problem": "x^4 + ax^3 - bx^2 + ax + 1 = 0\\]has at least one real root.  Determine the area of the graph o",
+        "solution": "ge 2",
+        "answer": "rac{1",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1930.json"
+    },
+    {
+        "problem": "find the largest possible value of $x$. Express your",
+        "solution": " $x+5$ has a different sign than $3x-6$, then $x+5=-(3x-6)$.\n\nCase 2: \\begin{align*} x+5&=-(3x-6)\n\\\\ x+5&=-3x+6\n\\\\\\Rightarrow \\qquad 4x&=1\n\\\\\\Rightarrow \\qquad x&=\\frac{1}{4}\n\\end{align*}If we plug this value of $x$ back into the original equation to check our answer, we get that $\\left|\\frac{1}{4}+5\\right|-\\left|3\\left(\\frac{1}{4}\\right)-6\\right|=0$, which also gives us $0=0$. This is always true, so we can accept $x=\\frac{1}{4}$ as a valid solution as well. Thus, our two possible solutions are $\\frac{1}{4}$ and $\\frac{11}{2}$. Since the question asks for the larges",
+        "answer": "ac{11}",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/972.json"
+    },
+    {
+        "problem": " What is the fewest number of miles she can walk in",
+        "solution": "ber of days she can walk is $\\left",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/661.json"
+    },
+    {
+        "problem": "the other two sides are increased by $50\\%$ to form a rectangle. By what percent does the square's are",
+        "solution": "her pair of sides were increased by $50\\%$, so the area became $1.5\\cdot .6 A = .9A$. Thus, the area decreased by ",
+        "answer": "0",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1233.json"
+    },
+    {
+        "problem": " equidistant from the points $A(10,-10)$ and $O(0,0)$ (that is, so that $PA=PO$).  Express your answer as",
+        "solution": " which is $(5,-5)$. Therefore, the perpendicular bisector has equation $y-(-5)=x-5$ or $y=x-10$.\n\n$P$ is the point of intersection of the lines $y=x-10$ and the line $y=-x+6$.  Setting these equations equal and solvi",
+        "answer": "-2)",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/538.json"
+    },
+    {
+        "problem": "asy]\nsize(4cm);defaultpen(linewidth(0.75));\n\n// Filled portions\nfill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75));\nfill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));\n\n// grid\nint j;\nfor (j = 0; j < 4; ++j) {draw((j, 0)--",
+        "solution": "ded region is a triangle with base of length 1 and height 4; the area of this region is $\\frac{1}{2}(1)(4)=2$",
+        "answer": "1",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/378.json"
+    },
+    {
+        "problem": "uiv 2 \\pmod{7}$, then find the remainder when $",
+        "solution": "",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 2,
+        "unique_id": "test/number_theory/627.json"
+    },
+    {
+        "problem": "2+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ intersect, where $\\lfloor x \\rfloor$ denotes the floor function of $x$, and $\\phi(n)$ denotes the sum of the positive integers $\\le$ and relatively pr",
+        "solution": "(x)-f(x)=x^3-5x^2-8x+12=(x-6)(x+2)(x-1)$, the largest value of $x$ at which the graphs inters",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/733.json"
+    },
+    {
+        "problem": " $c$. Can you tell me the values of $a$ and $c$?\"\n\nAfter some calculations, Jon says, \"There is more than one such polynomial.\"\n\nSteve says, \"You're right. Here is the value of $a$.\" He writes down a positive integer and asks, \"Can you tell me the value of $c$?\"\n\nJon says, \"",
+        "solution": "$16), (15, 2",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1411.json"
+    },
+    {
+        "problem": "c{2}{x+1}$, then what is the value of $f^{",
+        "solution": "{x+1} = \\frac{1}{5}.$$Multiplying both sides by $5(x+1)$, we have $$10 = x+1.$$Subtracting $1$ from both sides give",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1960.json"
+    },
+    {
+        "problem": "a}$ onto $\\mathbf{b} = \\begin{pmatrix} 2 \\\\ 6 \\\\ 3 \\end{pmatrix}$ i",
+        "solution": " = \\frac{8}{2^2 + 6^2 + 3^2",
+        "answer": "matrix} 16/49 \\\\ 48/49 \\\\ ",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/625.json"
+    },
+    {
+        "problem": "leq 3, \\\\\n-x^3+2x^2+3x & \\text{ if } x>3.\n\\end{array}\n\\right.\\]Calculate $f^{-1}(0)+f^{",
+        "solution": "2x^2 + 3x = 6$, or $x^3 - 2x^",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2277.json"
+    },
+    {
+        "problem": "m in the expansion of $$\\left(10x^3-\\frac{",
+        "solution": ", this term is $$\\binom52 (10x^3)^2\\left(-\\frac{1}{2x^2}\\right)^3=10\\cdot100\\cdot-\\frac{1}{8}\\cdot x^6\\cdot\\frac{1}{x",
+        "answer": "12",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/119.json"
+    },
+    {
+        "problem": "ts satisfying $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ for all real  numbers $x$, and sup",
+        "solution": "t also have its",
+        "answer": "0",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/2146.json"
+    },
+    {
+        "problem": "greatest possible value of $\\gcd(n + 7, 2n + 1",
+        "solution": "n + 7,13 is attainable.  Therefore, the greatest possible value of $\\gcd(n + 7, 2n + 1)$",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/156.json"
+    },
+    {
+        "problem": "s $60\\%$ off the original price. How many dollars was the original ",
+        "solution": "ce.  Thus the original price was\n",
+        "answer": "\\$",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1203.json"
+    },
+    {
+        "problem": "is congruent to $n$ modulo 9, where $0\\le n<9$, what is the v",
+        "solution": "quiv 1d{3}",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/911.json"
+    },
+    {
+        "problem": "Find $k$, if $",
+        "solution": "$, we have $6k=6$, which, dividing by 6, solves to $k=\\boxed{1}",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/1214.json"
+    },
+    {
+        "problem": "pose that $f$ is a polynomial such that \\[(x-1)\\cdot f(x)",
+        "solution": "with degree 4, we ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/187.json"
+    },
+    {
+        "problem": "f $f(x)=ax^4-bx^2+x+5$ and $f(-3)=2,",
+        "solution": "we subtract the second equation from the f",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/246.json"
+    },
+    {
+        "problem": "usly rolled. The probability that exactly two of them show a number other",
+        "solution": "l",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/10.json"
+    },
+    {
+        "problem": "D$?\n\n[asy]\nsize(150);\npair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2);\ndraw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle);\nlabel(\"$A$\", A, SW);\nlabel(\"$B$\", B, NW);\nlabel(\"$C$\", C, NE);\nlabel(\"$D$\", D, SE);\npair E, F;\nE = (4.5-.2,1-.2); F = (5, 3);\ndraw(A--E--D); draw(A--F--D);\nlabel(\"$E$\", E, N); label(\"$F$\", F, NW);\ndot(A);dot(B);dot(C);dot(D);dot(E);dot(F",
+        "solution": "e that $110^\\circ +100^\\circ +3y+3x=360^\\circ$, so $3x+3y=150^\\circ$. We want t",
+        "answer": "0",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1646.json"
+    },
+    {
+        "problem": "rcsin x)^2.\\]Find the range of $f(x).$  All functi",
+        "solution": "\\alpha + \\beta = \\frac{\\pi}{2}.$  Then\n\\begin{align*}\nf(x) &= (\\arccos x)^2 + (\\arcsin x)^2 \\\\\n&= \\alpha^2 + \\beta^2 \\\\\n&= \\left( \\frac{\\pi}{2} - \\beta \\right)^2 + \\beta^2 \\\\\n&= 2 \\beta^2 - \\pi \\beta + \\frac{\\pi^2}{4} \\\\\n&= 2 \\left( \\beta - \\frac{\\pi}{4} \\right)^2 + \\frac{\\pi^2}{8}.\n\\end{align*}Since $-\\frac{\\pi}{2} \\le \\beta \\le \\frac{\\pi}{2},$ the range of $f(x)$ is $\\boxed{\\lef",
+        "answer": "{\\pi^2}{8}, \\frac{5 \\pi^",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/499.json"
+    },
+    {
+        "problem": "ence of odd numbers 1, 3, 5, 7, $\\dot",
+        "solution": "on difference 2.  Therefore, the $2003^{\\text{rd}}$ term is $1+2002\\cdot2=\\boxed{4005}$",
+        "answer": "40",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/524.json"
+    },
+    {
+        "problem": "e $\\dbinom{31",
+        "solution": "mes 1} \\\\\n&= 31 \\times \\dfrac{30}{3\\times 2\\times 1} ",
+        "answer": "49",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/116.json"
+    },
+    {
+        "problem": "f the integers $C$ and $D$ for which\n\\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x",
+        "solution": "he given equation holds for all $x$ except $-8$ and $3.$  This tells us that the equation $C(x + 8) + D(x - 3) = 4x - 23$ holds for all $x$, except possibly $-8$ and 3.  However, both sides of this equation are polyno",
+        "answer": "5",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1898.json"
+    },
+    {
+        "problem": "and $CF$ of triangle $ABC$ intersect at the centroid $G$.  The line through $G$ that is parallel to $BC$ intersects $AB$ and $AC$ ",
+        "solution": "$A$\", A, dir(90));\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, S);\nlabel(\"$E$\", E, NE);\nlabel(\"$F$\", F, NW);\nlabel(\"$G$\", G, SSW);\nlabel(\"$M$\", M, NW);\nlabel(\"$N$\", N, NE);\n[/asy]\n\nSince $GN$ is parallel to $BC$, triangles $ENG$ and $ECB$ are similar.  Furthermore, $G$ is the centroid of triangle $ABC$, so the ",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/172.json"
+    },
+    {
+        "problem": "Suppose that $f$ is a function and $f^{-1}$ is the inverse of $f$.  If",
+        "solution": " values of $x$ with $f(x) = 6$.)  Simil",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1199.json"
+    },
+    {
+        "problem": " money for her trip to Europe. If she has 300 US dollars in the bank but wants to withdraw half of it in British pounds and half of it in euros, ",
+        "solution": "will have $1",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/2066.json"
+    },
+    {
+        "problem": "er class and the lower class soldiers. If there were a total of 5 upper class soldiers, and 10 lower class soldiers in a certain part of Athens, and the battle of Thermopy",
+        "solution": "s to choose 8 lower class soldiers. The num",
+        "answer": "2",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/666.json"
+    },
+    {
+        "problem": "er of ordered pairs $(a,b)$ of integers ",
+        "solution": "5) {dot((i,j),red);}\n}}\n[/asy]\n\nWe can count that there are 15 such complex numbers in the first quadrant (not including the axes).  Then there are 5 complex on the positive real axis, the negative real axis, the positive imagina",
+        "answer": "8",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/232.json"
+    },
+    {
+        "problem": " \\end{pmatrix}$ and $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmat",
+        "solution": "rix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}$ is\n\\[(-2)(3) + (",
+        "answer": "4",
+        "subject": "Precalculus",
+        "level": 1,
+        "unique_id": "test/precalculus/1289.json"
+    },
+    {
+        "problem": "ck+linewidth(1));\ndraw((-5,10)--(7,10),MidArrow);\nlabel(\"$x^{\\circ}$\",(-6,10),SE);\nlabel(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy",
+        "solution": "el(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy]\n\nSince $PT$ and $QR$ are parallel, then $\\angle TPQ$ and $\\angle PQR$ are supplementary. Thus, $\\angle PQR + 64^\\circ = 180^\\circ,$ so $\\",
+        "answer": "1",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/874.json"
+    },
+    {
+        "problem": "ue that $2^{24}$ is a perfect $n^{\\text{th}}$ po",
+        "solution": "which are greater than 1 are 2, 3, 4, 6, 8, 12, a",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/978.json"
+    },
+    {
+        "problem": " the minimum value of\n\\[\\frac{(x + ",
+        "solution": "AM-GM,\n\\[(x + 1) + \\frac{4}{x + 1} \\ge 2 \\sqrt{(x + 1) \\cdot \\frac{4}{x + 1}} = 4,\\]so $(x + 1) + \\frac{",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/446.json"
+    },
+    {
+        "problem": "uct of integers 240 and $k$ is a perfect cube. What i",
+        "solution": " not a perfect square), $",
+        "answer": "9",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/89.json"
+    },
+    {
+        "problem": "nd $z$ be positive real numbers such that $xyz(x + y + z) = 1.",
+        "solution": "hen $xz = y(x + y + z) = 1$ and $xyz(x + y + z) = 1.$  For example, we can take $x = 1,$ $y = \\sqrt{2} - 1,$ and $z = 1.$  Hence, the minimum value is $\\box",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/190.json"
+    },
+    {
+        "problem": "vert $\\frac{21}{2^2 \\cdot 5^7}",
+        "solution": "or of the form $10^b$: $$\\frac{21}{2^2\\cdot5^7}\\cdot\\frac{2^5}{2^5}=\\frac{21\\cdo",
+        "answer": "0672",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/598.json"
+    },
+    {
+        "problem": " digits are found in the base 7 and base 8 representations of $629_{10}$? For exa",
+        "solution": "}>629_{10}>8^{3}$. So, we can tell that $629_{10}$ in base eight will have four digits. $8^{3}=512$, which can go into 629 only one time at most, leavi",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/928.json"
+    },
+    {
+        "problem": "ive factor of $42$.  If Rick and Steve are thinking of the same number, how many possible numbers cou",
+        "solution": "find that $3\\cdot 14=42$, so our list becomes $$1\\quad 2 \\quad 3 \\quad \\underline{\\hphantom{10}} \\quad \\dots \\quad \\underline{\\hphantom{10}} \\quad 14 \\quad 21 \\quad 42.$$  Checking $4$ and $5$ we find that $4$ and $5$ are not divisors of $42$.  Checking $6$, we find that $6\\cdot 7=42$, so our list becomes $$1\\quad 2 \\quad 3 \\quad 6 \\quad \\underline{\\hphantom{10}} \\quad \\dots \\quad \\underline{\\hphantom{10}} \\quad 7 \\quad 14 \\quad 21 \\quad 42.$$  Si",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1686.json"
+    },
+    {
+        "problem": "y=\\log_2 (\\sqrt{\\sin x})$ for $0^\\circ< x < 1",
+        "solution": "). Since the range of $\\log_2 x$ for $0<x\\le1$ is all non-positive numbers, the range of the entire function is all non-positive numbers, ",
+        "answer": "nfty, ",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/695.json"
+    },
+    {
+        "problem": "polynomial with integer coefficients which has $4-\\sqrt{11}$ as",
+        "solution": "\\sqrt{11}))(x-(4+\\sqrt{11}))\\]for some nonzero constant $A$. This means that \\[p(3) = A(-1+\\sqrt{11})(-1-\\sqrt{11}) = -10A\\]and \\[p(4) = A(\\sqrt{1",
+        "answer": "{10}{1",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1123.json"
+    },
+    {
+        "problem": "n be formed if every license plate has 2 different letters (A through Z) ",
+        "solution": "f the 10 digits, while the second digit can be any of the 9 remaining digits. The number of license plates is $26\\times 25\\times 10\\times 9=\\boxe",
+        "answer": ",50",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/737.json"
+    },
+    {
+        "problem": "splaystyle\\frac{\\sqrt{a b + a}}{\\sqrt{a b - b}}$. What is the value of $9 \\& 2$? Express your answer as a common ",
+        "solution": "\\frac{\\sqrt{27}}{\\sqrt{16}} = \\boxed{\\frac{3\\sqr",
+        "answer": "3\\sqrt{3}",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2253.json"
+    },
+    {
+        "problem": "What is the number of square units in the area of",
+        "solution": " hypotenuse $5$ and one side of length $",
+        "answer": "2",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/802.json"
+    },
+    {
+        "problem": "perfect square, what is the smallest possible value of $a$ where $a$ is a positive integ",
+        "solution": " then",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/686.json"
+    },
+    {
+        "problem": "$, $\\angle P= 40^\\circ$, and $\\angle Q =35^\\circ$. Find the measure of $\\angle STR$ in degrees.\n\n[asy]\npair P,Q,R,SS,T;\nQ = (0,0);\nR = (1,0);\nP = (1.1,0.5);\nSS = 0.6*P;\nT = R + 0.6*(P-R);\ndr",
+        "solution": "erline{ST}\\parallel \\overline{QR}$, we have $\\angle ST",
+        "answer": "\\cir",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/914.json"
+    },
+    {
+        "problem": "hat is the value of $(26^",
+        "solution": "$. Factoring $x^2 - y^2$ and substituting in gives $((26+24)(26-24)-10+10)((26+24)(26-24)-10-10)",
+        "answer": "00",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2593.json"
+    },
+    {
+        "problem": "\n\nsize(400);\n\nreal f(real x)\n{\n\treturn 2*sin(3*x + pi) + 1;\n}\n\ndraw(graph(f,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5,5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3),",
+        "solution": "dpoint at $x = \\pi$ for positive values of $x$ (and is decreasing at this point), so the smallest possible value of $c$ is $\\boxe",
+        "answer": "p",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/1199.json"
+    },
+    {
+        "problem": "t^2+5t+a$ and $4t^2+bt-2$ is $12t^4+26t^3-8",
+        "solution": "m of the product of our polynomials. It's given by $-16t=(5t\\cdot-2)+a\\cdot bt\\Longrightarrow",
+        "answer": "-",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/893.json"
+    },
+    {
+        "problem": " students be selected from a group o",
+        "solution": "thout regard to order in $\\binom{6}{5} = \\boxe",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "3}$ in simplest radica",
+        "solution": "$ is already in",
+        "answer": "qrt{",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1834.json"
+    },
+    {
+        "problem": "ase six equivalent of $",
+        "solution": "into 135 three times at most, leaving us with $135-3\\cdot36 = 27$. Then, $6^{1}=6$ goes into 27 four times at most, leaving $27-4\\cdot6 = 3$ for the ones digit. All together, the base six equivalent of $999_{10}$ is",
+        "answer": "3_6",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/368.json"
+    },
+    {
+        "problem": "6$ can be written in the form $(x+b)^2+c$, where $b$ and $c$ are c",
+        "solution": " - 1.69 + 3.6 \\\\\n&= (x+1.3)^2 + 1.91.\n\\end{align*}Therefore, $b=1.3$ and $c=1.91$, which gives us $b+c ",
+        "answer": ".2",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/621.json"
+    },
+    {
+        "problem": "egin{align*}\nx\\left(x(1+x)+2x\\right)-3(x^2-x+2)",
+        "solution": " Now, distribute again: \\begin{align*}\nx^2+x^3+2x^2-3x^2+3x-6\n\\end{align*} Finally, combine like terms to get \\begin{align*}\n\\boxed{x^3+3x-6}\n\\end{al",
+        "answer": "3x-6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/2046.json"
+    },
+    {
+        "problem": "frac{\\sqrt{2.5^2-0.7^2}",
+        "solution": "frac{\\sqrt{576/100}}{0.2}\\\\\n&= \\frac{\\sqrt{576}/\\sqrt{100}}{0.2} = \\frac{24/10}{0.2} =",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/951.json"
+    },
+    {
+        "problem": "$N$ positive odd numbers is 121. What i",
+        "solution": "ed by the number of terms, so the sum of the first $N$ positive odd integers is \\[\\frac{",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/769.json"
+    },
+    {
+        "problem": "Find the quotient when $x^9",
+        "solution": "\\\n&= x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1 + ",
+        "answer": " + x^7 + x^6 + x^5 + x^",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/199.json"
+    },
+    {
+        "problem": "mly selected integer in the set $$\\{1,2,3,\\ldots,100\\}$$  is divisible by 2 and not divi",
+        "solution": "e are 16 multiples of 6 in ",
+        "answer": "frac{17",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1655.json"
+    },
+    {
+        "problem": "_2$ be the foci of the ellipse $kx^2 + y^2 = 1,$ where $k > 1$ is a constant. Suppose that there is a circle which passes",
+        "solution": "el(\"$y$\",(0,1.4),N);\ndraw((-1.2,0)--(1.2,0),EndArrow); label(\"$x$\",(1.2,0),E);\ndraw(xscale(1/sqrt(2))*unitcircle);\ndraw(scale(1/sqrt(2),1/sqrt(2))*unitcircle);\ndot(\"$F_1$\",(0,1/sqrt(2)),NW);\ndot(\"$F_2$\",(0,-1/sqrt(2)),SW);\n[/asy] The existence of such a circ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/894.json"
+    },
+    {
+        "problem": "rac{125}{9}, \\frac{25}{3}, 5, 3, \\ldots$. What is the eighth term of the sequen",
+        "solution": "c{125}{9} \\cdot \\left( \\frac{3}{5} \\right)^{n-1}$. Plugging in $n=8$, we g",
+        "answer": "rac{243",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1072.json"
+    },
+    {
+        "problem": "ote the centroid and orthocenter of triangle $ABC,$ respectively.   Let $F$ be the midpoint of $\\overline{GH}.$  Express ",
+        "solution": " \\\\\n&= \\frac{1}{9} (\\overrightarrow{A} \\cdot \\overrightarrow{A} + 4 \\overrightarrow{B} \\cdot \\overrightarrow{B} + 4 \\overrightarrow{C} \\cdot \\overrightarrow{C}  - 4 \\overrightarrow{A} \\cdot \\overrightarrow{B} - 4 \\overrightarrow{A} \\cdot \\overrightarrow{C} + 8 \\overrightarrow{B} \\cdot \\overrightarrow{C}) \\\\\n&= \\frac{1}{9} (9R^2 - 4 \\overrightarrow{A}",
+        "answer": "3R",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/1133.json"
+    },
+    {
+        "problem": "epresented by $x$?\n\n[asy]\ndraw((0,0)--(10,0));\ndraw((0,3)--(10,3));\ndraw((2,3)--(8,0));\ndraw((2,3)--(4,0));\nlabel(\"$A$\",(2,3),N);\nlabel(\"$B$\",(4,0),S);\nlabel(\"$C$\",(8,0),S);",
+        "solution": "$. Therefore, $\\angle BAC = x^\\circ$:\n\n[asy]\ndraw((0,0)--(10,0));\ndraw((0,3)--(10,3));\ndraw((2,3)--(8,0));\ndraw((2,3)--(4,0));\nlabel(\"$A$\",(2,3),N);\nlabel(\"$B$\",(4,0),S);\nlabel(\"$C$\",(8,0),S);\nlabel(\"$124^{\\circ}$\",(2,3),SW);\nlabel(\"$x^{\\circ}$\",(4.5,3),S);\nlabel(\"$x^{\\circ}$\",(6,0),N);\nlabel(\"$x^{\\circ}$\",(3.6,1.7));\n[/asy]\n\nThe sum of the three angles at $A$ is $180^\\circ$, since they form a straight angle. Therefore, $$124+x+x=180,$$ which we can solve to obtain $x=\\b",
+        "answer": "8",
+        "subject": "Geometry",
+        "level": 1,
+        "unique_id": "test/geometry/434.json"
+    },
+    {
+        "problem": "rt{2x}}{\\sqrt{3x-1}}=\\frac32$, solve for $x$. Express",
+        "solution": "7x-9& =8x\n\\\\ \\Rightarrow \\qquad19x&=9\n",
+        "answer": "rac9{",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2257.json"
+    },
+    {
+        "problem": "=-3$, and $a+c= -5$, what is the value",
+        "solution": "b$ into the first given equation, we find that $a=3$. Plugging this value of $a$ into the third given equation, we fin",
+        "answer": "12",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1457.json"
+    },
+    {
+        "problem": "c} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^",
+        "solution": "nd{align*}By the triple angle formula,\n\\begin{align*}\n\\frac{1}{2} &= \\cos 60^\\circ \\\\\n&= \\cos (3 \\cdot 20^\\circ) \\\\\n&= 4 \\cos^3 20^\\circ - 3 \\cos 20^\\circ,\n\\end{align*}which means $8 \\cos^3 20^\\circ = 6 \\cos 20^\\circ + 1.$  Hence,\n\\begin{align*}\n\\frac{12 \\cos^2 20^\\circ - 8 \\cos^3 20^\\circ + 1}{\\sin^2 40^\\circ} &= \\frac{12 \\cos^2 20^\\circ - 6 \\cos 20^\\circ}{\\sin^2 40^\\circ} \\\\\n&= \\frac{12 \\cos^2 20^\\circ - 6 \\cos 20^\\circ}{4 \\sin^2 20^\\circ \\cos^2 20^\\circ} \\\\\n&= \\frac{12 \\cos 20^\\circ - 6}{4 \\sin^2 20^\\circ \\cos 20^\\circ} \\\\\n&= \\frac{12 \\cos 20^\\circ - 6}{4 (1 - \\cos^2 20^\\circ) \\cos 20^\\circ} \\\\\n&= \\frac{1",
+        "answer": "2",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/989.json"
+    },
+    {
+        "problem": "ce president. Each candidate has a 50$\\%$ chance of winning. What is the probability that both Dan and Freddie win? (Express your ",
+        "solution": "c12$. Therefore, the probability that both win is $\\frac",
+        "answer": "fra",
+        "subject": "Counting & Probability",
+        "level": 1,
+        "unique_id": "test/counting_and_probability/14.json"
+    },
+    {
+        "problem": "ional denominator: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}",
+        "solution": "}{\\sqrt{729}}}}=\\sqrt{\\sqrt[3]{\\frac{1}{27}}}=\\sqrt{\\frac{1}{3}}=\\frac{1}{\\sqrt{3}}",
+        "answer": "rt{3}}{3}",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1275.json"
+    },
+    {
+        "problem": " 5; ++i )\n{\n\ndraw((0,i)--(8,i));\n}\ndraw((-0.5,0)--(8,0), linewidth(1));\ndraw((0,-0.5)--(0,6), linewidth(1));\nlabel(\"$O$\", (0,0), SW);\nlabel(scale(.85)*rotate(90)*\"distance\", (0, 3), W);\nlabel(scale(.85)*\"time\", (4, 0), S);\ndot((1.25, 4.5));\nlabel(scale(.85)*\"Evelyn\", (1.25, 4.8), N);\ndot((2.5, 2.2));\nlabel(scale(.85)*\"Briana\", (2.5, 2.2), S);\ndot((4.25,5.2));\nlab",
+        "solution": "r as Carla in less than half the time that it took Carla, so Evelyn's average ",
+        "answer": "Evelyn",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1349.json"
+    },
+    {
+        "problem": "eil (3.6)^2 \\rceil - ( \\lceil ",
+        "solution": "\\rceil ) ^2 = 4^2 = 16$ because the leas",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2232.json"
+    },
+    {
+        "problem": "$$ is defined as $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}",
+        "solution": " even number, say $2n$. Then, $4\\$ = 24^{2n} = 576^n$. The units digit of the product of two numbers with units digit $6$ is equal to $6$. ",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/1185.json"
+    },
+    {
+        "problem": ";\nD = (0,-1,0);\nE = (0,0,1);\nF = (0,0,-1);\nP = (1.2,1.5,1);\n\ndraw(A--P,red);\ndraw(B--P,red);\ndraw(C--P,red);\ndraw(D--P,red);\ndraw(E--P,red);\ndraw(F--P,red);\n\ndraw(A--C);\ndraw(A--D);\ndraw(A--E);\ndraw(A--F);\ndraw(C--E--D--F--cycle);\ndraw(D--B--C,dashed);\ndraw(B--C,dashed);\ndraw(B--D,dashed);\ndraw(B--E,dashed);\ndraw(B--F,dashe",
+        "solution": "+ d_F^2 = 2x^2 + 2y^2 + 2z^2 + 2a^2.\\]Among the distances 3, 7, 8, 9, and 11, we check the sum of their squares in pairs:\n\\begin{align*}\n3^2 + 7^2 &= 58, \\\\\n3^2 + 8^2 &= 73, \\\\\n3^2 + 9^2 &= 90, \\\\\n3^2 + 11^2 &= 130, \\\\\n7^2 + 8^2 &= 113, \\\\\n7^2 + 9^2 &= 130, \\\\\n7^2 + 11^2 &= 170, \\\\\n8^2 + 9^2 &= 145, \\\\\n8^2 + 11^2 &= 185, \\\\\n9^2  + 11^2 &= 202.\n\\end{align*}We see only one re",
+        "answer": "qrt{",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/902.json"
+    },
+    {
+        "problem": "r: For a positive integer $n$, the expression $n!$ stands for the product of the integers from 1 up to (and incl",
+        "solution": "cdot 7.\\end{align*}\nHen",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/838.json"
+    },
+    {
+        "problem": "ant dogie. Ringo decided to give the dogie a reprieve by calculating \\[|(1-i)^8|\\]before ridin",
+        "solution": "1-i\\right|^8\\]The magnitude of $1-i$ is $\\sqrt{1^2+(-1)^2}=\\sqrt{2}$; thus our answer is $\\left(\\sqrt{2}\\right) ^8=\\boxed{1",
+        "answer": "6",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/1168.json"
+    },
+    {
+        "problem": "n the closed interval $[-500,500]$ for which the equation $\\log(kx)=2\\log(x+",
+        "solution": "ies $\\log(kx) = 2\\log(x+2)$ as well, as long as the two logarithms are defined; since $k > 0,$ the logarithms are defined exactly when $x > 0.$ Therefore, this quadratic must have exactly one positive root.\n\nBut by Vieta's formulas, the product of the roots of this quadratic is $4,$ which is positive, so the only way for it to have exactly one positive root is if it has $\\sqrt{4} = 2$ as a double root. That is,",
+        "answer": "5",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1849.json"
+    },
+    {
+        "problem": "ockwise about its center. What is the minimum number of degrees it must be rotated u",
+        "solution": "\n\n[asy]\nsiz",
+        "answer": "7",
+        "subject": "Geometry",
+        "level": 3,
+        "unique_id": "test/geometry/967.json"
+    },
+    {
+        "problem": "$\\triangle ABC$ intersect at $H$.  If $\\angle BAC = 54^\\circ$ and $\\angle ABC = 52^",
+        "solution": "H,Q,C,3.5));\n\n[/asy]\n\nWe have $\\angle AHB = \\angle DHE$, and from quadrilateral $CDHE$, we have  \\begin{align*}\n\\angle DHE &= 360^\\circ - \\angle ",
+        "answer": "\\cir",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/615.json"
+    },
+    {
+        "problem": " the value of $$\n(3x-2)(4x+1)-(",
+        "solution": " 1",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/2159.json"
+    },
+    {
+        "problem": "0; i<4; ++i)\n{\n\ndraw((0,i)--(3,i),linewidth(1));\n}\n\nfor(int j = 0; j<4; ++j)\n{\n\ndraw((j,0)--(j,3),linewidth(1));\n}\n\nlabel(\"$n-3$\",(.5,.5));\nlabel(\"3\",(.5,1.5));\nlabel(\"$n+1$\",(.5,2.5));\n\nlabel(\"$n+2$\",(1.5,.5));\nlabel(\"$2n-9$\",(1.5,1.5));\nlabel(\"$1$\",(1.5,2.5));\n\nlabe",
+        "solution": ",3)--cycle,linewidth(1));\ndraw((1,0)--(1,3),linewidth(1));\ndraw((2,0)--(2,3),linewidth(1));\ndraw((0,1)--(3,1),linewidth(1));\ndraw((0,2)--(3,2),linewidth(1));\nlabel(\"8\",(.5,2.5));\nlabel(\"1\",(1.5,2.5));\nlabel(\"6\",(2.5,2.5));\nl",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1930.json"
+    },
+    {
+        "problem": "x+4$, what is the value o",
+        "solution": " + 4 = 5(4) -6 + 4 = \\box",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/849.json"
+    },
+    {
+        "problem": " many of the first one hundred positive in",
+        "solution": "by their least common multiple -- however, since $3, 4,$ and $5$ are relatively pr",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/1201.json"
+    },
+    {
+        "problem": "$ What is the measure of $\\angle BAC?$\n\n[asy]\ndraw((0,0)--(10,0)--(8.2635,9.8481)--cycle,black+linewidth(1));\ndraw((10,0)--(20,0)--(8.2635,9.8481),black+linewidth(1));\ndraw((5,-0.5)--(5,0.5),black+linewidth(1));\ndraw((15,-0.5)--(15,0.5),bl",
+        "solution": " \\\\\n&= 180^\\circ - 100^\\circ \\\\\n&= 80^\\circ.\n\\end{align*}Since $",
+        "answer": "90^\\",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/846.json"
+    },
+    {
+        "problem": "$ can be written as $(Ax-8)(Bx+3),$ where $A$ and $B$ a",
+        "solution": "= 5$",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/276.json"
+    },
+    {
+        "problem": "e((0,0), 1.2));\n\ndraw((1,0)--(1,-2));\ndraw((3.4,0)--(3.4,-2));\n\ndraw((1,-2)..(2.2,-2.36)..(3.4,-2));\n\nlabel(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);\n\ndraw (((2.2,0)--(3.4,0)));\n\nlabel(\"$r=3$\",mid",
+        "solution": "ave $9\\pi h=45\\",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/248.json"
+    },
+    {
+        "problem": "0101001110_{2}$ is equal to what numb",
+        "solution": "th $110_2=6_8$. The next block of three digits is $001_2=1_8$. Continuing, we find that the next two digits (moving right-to-left) are $101_2=",
+        "answer": "251",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/516.json"
+    },
+    {
+        "problem": "inute. What is the bicycle's speed expressed in inch",
+        "solution": "re $60$ seconds in a minute, so t",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1973.json"
+    },
+    {
+        "problem": "ng forward at a constant speed takes 2.5 hours to travel 1 kilometer. Moving forward at this same constant speed, it ta",
+        "solution": "e robot was traveling the hallway, meaning the hallway is $\\fra",
+        "answer": "0",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/954.json"
+    },
+    {
+        "problem": "ise direction is applied to $3$ (as a complex number).  What is the resu",
+        "solution": "\"$3$\", A, NE);\ndot(\"$1 - 12i$\", B, SE);\ndot(\"$-4 - 5i$\", O, W);\n[/asy]\n\nLet $z$ be the i",
+        "answer": "1 -",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/1291.json"
+    },
+    {
+        "problem": " + 2)(x - 4)} + \\frac{(x + 3)(x - 5)}{9(x + 4)(x - 6)} - \\frac{2(x + 5)(x - 7)}{13(x + 6)(x - 8)} = \\fra",
+        "solution": "ifies to\n\\[\\frac{1}{x^2 - 2x - 8} + \\frac{1}{x^2 - 2x - 24}",
+        "answer": "m \\sqrt",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/662.json"
+    },
+    {
+        "problem": "xagon is inscribed in a circle: [asy]\npair pA, pB, pC, pD, pE, pF, pO;\npO = (0, 0);\npA = pO + dir(-10);\npB = pO + dir(60);\npC = pO + dir(130);\npD = pO + dir(170);\npE = pO + dir(-160);\npF = pO + dir(-80);\n",
+        "solution": " 110^\\circ$ must be half of the majo",
+        "answer": "145^",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/183.json"
+    },
+    {
+        "problem": "0,$ what is $x$ equal ",
+        "solution": "x = 10000,$ then $x=\\boxed{4},$ since $10000$ ends in fou",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 1,
+        "unique_id": "test/prealgebra/1317.json"
+    },
+    {
+        "problem": " = \\begin{pmatrix} 3 & 7 \\\\ -1 & -2 \\end{pmatrix},\\]compute $\\math",
+        "solution": "\\mathbf{A}^3)^{10} \\mathbf{A} + (\\mathbf{A}^3)^{13} \\mathbf{A} \\\\\n&= (-\\mathbf{I})^9 + (-\\mathbf{I})^{10} \\mathbf{A} + ",
+        "answer": "{pmatrix} -1 & 0 \\\\ 0 &",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/920.json"
+    },
+    {
+        "problem": "If $\\mathbf{a}$ and $\\mathbf{b}$ are vectors such that $\\|\\mathbf{a}\\| = 2,$ $\\|\\mathbf{b}\\| = 7,$ and\n\\[\\mathbf{a} \\times \\mathbf{b} ",
+        "solution": "]From the given information, $7 = 14 \\sin \\theta,$ so $\\sin \\theta = \\frac{1}{2}.$  Thus, the smallest possible value of $",
+        "answer": "30^\\",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/441.json"
+    },
+    {
+        "problem": " the largest possible area of the field, in square meters?\n\n[asy]\nunitsize(1 cm);\n\nfilldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen);\ndraw((0,0)--(3,0),linewidth(2*bp));\ndraw((0,2)--(3,2),linewidth(2*bp));\ndraw(arc((3,1),1,-90,90),linewidt",
+        "solution": " length of the track is $2w + 2 \\pi r = 400,$ so $w + \\pi r = 200.$  By AM-GM,\n\\[200 = w + \\pi r \\ge 2 \\sqrt{w \\pi r},\\]so $\\sqrt{w \\pi r} \\le 100.$  Then $w \\pi r \\le 10000,$ so\n\\[wr \\le \\frac{10000}{\\pi}.\\]Then the area of the field, $2wr,$ must satisfy\n\\[2wr \\le \\frac{20000}{\\pi}.\\]Equality occurs when $w = 100$ and $r = \\frac{100}{\\pi},$ so the largest possible area is $\\boxed",
+        "answer": "ac{20000",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1111.json"
+    },
+    {
+        "problem": "ce from the point $(6, 0)$ to the line $y = 2x-2$? Express yo",
+        "solution": " $$5=\\frac{5}{2}x$$ $$x=2$$ Plugging into either line, we find the point of intersection is $(2,2)$.  The coordinate plane now looks like: [asy]\nsize(150);\ndraw((-.5,0)--(7,0));\ndraw((0,-3)-",
+        "answer": "sqrt",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/1796.json"
+    },
+    {
+        "problem": "d $g(x) = x+1$. What is the value ",
+        "solution": ")-1) = g(7-1) = g(6) = 6",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/346.json"
+    },
+    {
+        "problem": " by $\\frac{\\pi}{4}$ counter-clockwise.\n\n[asy]\nunitsize(0.6 cm);\n\npair C, W, Z;\n\nZ = (2 + sqrt(2), -3 - 3*sqrt(2));\nC = (2,-3);\nW = rotate(45,C)*(Z);\n\ndraw(Z--C--W);\n\ndot(\"$c$\", C, N);\ndot(\"$w$\", W, ",
+        "solution": "lign*}\nw &= \\left( \\frac{1}{\\sqrt{2}} + \\frac{i}{\\sqrt{2}} \\right) (z - c) + c \\\\\n&= \\left( \\frac{1}{\\sqrt{2}} + \\frac",
+        "answer": " 5i",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/990.json"
+    },
+    {
+        "problem": " the modulo $7$ remainder of the su",
+        "solution": " $14$ integers. Because every group has a residue of $7$, we can ignore them.\n\nThere are $\\left\\lfloor \\frac{199}{14}\\right\\rfloor=14$ sets of $14$ integers, which is equivalent to $7$ odd numbers in our sum. This leaves $197$ and $199$, which have residues $1+3 \\e",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/109.json"
+    },
+    {
+        "problem": " = (1,-11,2),$ $B = (3,-4,1),$ and $C = (-2,1,",
+        "solution": " ",
+        "answer": "0^\\c",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/580.json"
+    },
+    {
+        "problem": "$ calories and is $2\\%$ of a person's daily caloric requirement, how many calories ",
+        "solution": "uirement, then a person's ",
+        "answer": "00",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/24.json"
+    },
+    {
+        "problem": "eaves if it is composed of $n$ pieces of paper. On the other hand, the number of pages is twice the number of leaves because each side of a piece of paper is defined as a page.\n\nIf the nu",
+        "solution": "mod 7\\implies m\\equiv 12\\equiv 5\\pmod 7$. So $m=5+7a$ for some positive integer $a$. The smallest such number greater t",
+        "answer": "1",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/1172.json"
+    },
+    {
+        "problem": "emainder when $129^{34}+96^{38}$",
+        "solution": "can see that $3^{34} = (3^5)^{6} \\cdot 3^4$ and $3^{38} = (3^5)^{7} \\cdot 3^3.$\n\nThen,  \\begin{align*}\n129^{34}+96^{38}&\\equiv (3^5)^{6} \\cdot 3^4 + (3^5)^{7} \\cdot ",
+        "answer": "",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/769.json"
+    },
+    {
+        "problem": "=2$, find all possible val",
+        "solution": "ow\\qquad 3x& =9\n\\\\\\Rightarrow\\qquad x& =\\boxed{3}.\n\\end{align*}Testing, we find that thi",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2251.json"
+    },
+    {
+        "problem": "The product of three consecutive integers is 120. That product divided by the mean ",
+        "solution": "ir mean is $(n-1",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1730.json"
+    },
+    {
+        "problem": "\n\\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]w",
+        "solution": "- y^2} \\le \\frac{x^2 + 1 - y^2}{2}.\\]Setting $a = y$ and $b = \\sqrt{1 - x^2},$ we get\n\\[y \\sqrt{1 - x^2} \\le \\frac{y^2 + 1 - x^2}{2}.\\]Therefore,\n\\[x \\sqrt{1 - y^2} +y \\sqrt{1 - x^2} \\le \\frac{x^2 + 1 - y^2}{2} + \\frac{y^2 + 1 - x^2}{2} = 1.\\",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1151.json"
+    },
+    {
+        "problem": "et $a,$ $b,$ $c,$ and $d$ be positive real numbers such that $a",
+        "solution": "^3 \\left( \\frac{d}{4} \\right)^4} \\\\\n&= 10 \\sqrt[10]{\\frac{ab^2 c^3 d^4}{27648}}.\n\\end{align*}S",
+        "answer": "76",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/158.json"
+    },
+    {
+        "problem": "s   45 times in a minute.  Initially, a mark on each gear is pointing  due north.  After how many seconds will the two g",
+        "solution": "ting due north, we have to find the least common multiple of $4=2^2$ ",
+        "answer": "6",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/631.json"
+    },
+    {
+        "problem": "ypotenuse has length $4\\sqrt{2}$.  What is the area of the trian",
+        "solution": "\nBecause $",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1640.json"
+    },
+    {
+        "problem": "integers with exactly three positive divisors are listed in asc",
+        "solution": "-1},p^n$. Therefore, $p^n$ has $n+1$ different positive divisors, and the only positive integers with exactly three positive divisors are the squares of prime numbers.\n\nThe five smallest such integers are, in ascending order, $2^2$, $3^2$, $5^2$, $7^2$, and $11^2$. The fifth num",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/72.json"
+    },
+    {
+        "problem": "bola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\left(\\frac",
+        "solution": " \\[\\left(\\frac x2 - 3\\right)^2 = ",
+        "answer": "llipse}",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "c{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]where $a,$ $b,$ $c,",
+        "solution": "3]{2} - 1} < b + 1.\\]Rationalizing the denominator, we get\n\\[\\frac{1}{\\sqrt[3]{2} - 1} = \\frac{\\sqrt[3]{4} + \\sqrt[3]{2} + 1}{(\\sqrt[3]{2} - 1)(\\sqrt[3]{4} + \\sqrt[3]{2} + 1)} = \\frac{\\sqrt[3]{4} + \\sqrt[3]{2} + 1}{2 - 1} = \\sqrt[3]{4} + \\sqrt[3]{2} + 1.\\]We have that\n\\[\\sqrt[3]{4} + \\sqrt[3",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/776.json"
+    },
+    {
+        "problem": " 6t - 5).\\]Find the point the curve passes through at $t =",
+        "solution": "2^2 - 6 \\cdot 2 - 5) = \\boxed{(15,-29)}",
+        "answer": "-29)",
+        "subject": "Precalculus",
+        "level": 1,
+        "unique_id": "test/precalculus/43.json"
+    },
+    {
+        "problem": "he four vertices?  [asy]\nsize(200);\ndraw((-250,100)--(250,100)--(250,-100)--(-250,-100)--cycle);\ndot((0,0));\nlabel(\"$O$\",(0,0),N);\nlabel(\"$A$\",(-250,100),NW); label(\"$B$\",(250,100),NE); label(\"$C$\",(250,-100),SE);",
+        "solution": "--(0,100)--(-250,100)--(-250,0)--cycle);\nlabel(\"$A$\",(-250,100),NW); label(\"$O$\",(0,0),SE);\ndraw((-105,100)--(-145,0));\nfill((-105,100)--(-145,0)--(0,0)--(0,100)--cycle, gray(.7));\n[/asy] Since a $180^\\circ$ rotation about the center of the smaller rectangle takes $O$ to $A$, it takes the shaded region to the unshaded region. Therefore, exactly half the area is shaded, and the overall probability is $\\boxed{\\frac{1}{2}",
+        "answer": "{1}{2",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/731.json"
+    },
+    {
+        "problem": "s the domain of the function $f(x) = \\frac{2-x}{\\log(2-\\log(x-2))}$, where $\\log$ i",
+        "solution": "02$. Finally, it must also be true that $\\log(2-\\log(x",
+        "answer": "2,12) \\cup",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1981.json"
+    },
+    {
+        "problem": "ass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a m",
+        "solution": "have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1}{",
+        "answer": "\\fra",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "8 people be seated around a square table with 2 people on a side?  (Two configurati",
+        "solution": "each person 2, 4, or 6 places ",
+        "answer": "10",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/238.json"
+    },
+    {
+        "problem": "_6 (x-y) + \\log_6 (x+y) = 2$ and $\\l",
+        "solution": "$Substituting that $y^2 = x^2 - 36$, it follows that $\\log (x^2 - 36) = \\log y^2 = 2\\log y = \\log 5x$. Since the logarithm is a one-to-one function, it follows that $x^2 - 36 = 5x$, so $x^2 - 5x - 36 = (x - 9)(x + 4) = 0$. Thus, $x = 9, - 4$, but the second does not work. ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/834.json"
+    },
+    {
+        "problem": "e real numbers such that\n\\[|ax^2 + bx + c| \\le 1\\]for all $0 \\le x \\le 1.$",
+        "solution": " &= |2p - 4q + 2r| \\le |2p| + |4q| + |2r| = 8, \\\\\n|b| &= |-3p + 4q - r| \\le |3p| + |4q| + |r| = 8, \\\\\n|c| &= |p| \\le 1.\n\\end{align*}Therefore, $|a| + |b| + |c| = 8 + 8 + 1 = 17.$\n\nConsider the quadratic $f(x) = 8x^2 - 8x + 1.$  We can wri",
+        "answer": "1",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/955.json"
+    },
+    {
+        "problem": "the positive divisors of $500$, what is the sum of th",
+        "solution": "tho",
+        "answer": "5",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/427.json"
+    },
+    {
+        "problem": "x^3 + bx^2 + cx + d = 0,\\]where $a,$ $b,$ $c,$ and $d$ are integers, and $a \\neq 0.$  Find the smallest possible value of $",
+        "solution": "(1 - x^2)(1 - 4x^2)}.\n\\end{align*}The right-hand side becomes\n\\[\\cos (\\pi - \\arccos 3x) = -\\cos (\\arccos 3x) = -3x,\\]so\n\\[2x^2 - \\sqrt{(1 - x^2)(1 - 4x^2)} = -3x.\\]Then $\\sqrt{(1 - x^2)(1 - 4x^2)} = 2x^2 + 3x.$  Squaring both sides, we get\n\\[(1",
+        "answer": "7",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/1202.json"
+    },
+    {
+        "problem": "n as a fraction $\\frac{a}{b}$ with $a$ and $b$ being positive integers with a",
+        "solution": "e can factor out 11 out of both the numerator and denominator, so $x = \\frac{121}{909}$. Thus",
+        "answer": "10",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/533.json"
+    },
+    {
+        "problem": " is $\\frac{9}{2}$ expr",
+        "solution": "ac{45}{10}$.",
+        "answer": ".",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/2019.json"
+    },
+    {
+        "problem": "g equation for $x$: \\[ \\ \\frac{2}{3}",
+        "solution": "$2x-10 = 12$.  Adding 10 to both sides gives $2x = 22$ an",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/988.json"
+    },
+    {
+        "problem": "rac{\\sqrt{2}}{2}$, arranged so that no two consecutive sides have the same length. What is the ar",
+        "solution": ") {\ndraw((i,0)--(i,3),dashed);\ndraw((0,j)--(3,j),dashed);\n};}\ndraw((1,0)--(2,0)--(3,1)--(3,2)--(2,3)--(1,3)--(0,2)--(0,1)--cycle,linewidth(0.7));\nfor (int i=0; i<2;",
+        "answer": "frac{",
+        "subject": "Geometry",
+        "level": 5,
+        "unique_id": "test/geometry/561.json"
+    },
+    {
+        "problem": "n 80^\\circ \\sin 100^\\circ \\sin 120^\\circ \\sin 140^\\circ \\sin ",
+        "solution": "circ \\\\\n&= \\frac{3}{4} (\\cos 10^\\circ",
+        "answer": "ac{9}{",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/190.json"
+    },
+    {
+        "problem": " what is the value ",
+        "solution": "8=2^{2x}$, we h",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/1004.json"
+    },
+    {
+        "problem": "0}=0\\,\\]has 10 complex roots $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ where the bar denotes complex conjugati",
+        "solution": "overne{r}_1} ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/582.json"
+    },
+    {
+        "problem": " units long. If the third side has a whole number length, what is the greatest po",
+        "solution": "he length of the third side. The third side has a whole number length, so the greatest possible l",
+        "answer": "1",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/106.json"
+    },
+    {
+        "problem": " even function.  Is $f(f(g(f(g(f(x))))))$ even, odd, or neither?\n\nEnter \"od",
+        "solution": "ally, if we have a composition of functions, and at leas",
+        "answer": "xt{ev",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/128.json"
+    },
+    {
+        "problem": " has sides measuring 1 unit and 3 units. The length of the third side is an in",
+        "solution": " $1+n>3$, or $2<n<4$. The only inte",
+        "answer": "",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/254.json"
+    },
+    {
+        "problem": " $\\sqrt{242",
+        "solution": "= \\sqrt{11^2} \\cdot \\sqrt2 = \\box",
+        "answer": "sqrt",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1302.json"
+    },
+    {
+        "problem": " drove her vehicle 12,000 miles last year. How many gallons of gasoline would she have saved last year had she driv",
+        "solution": "e used $12000/48 = 250$ gallons. Therefore, she would ",
+        "answer": "5",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/2037.json"
+    },
+    {
+        "problem": "t $x,$ $y,$ and $z$ satisfy the equations\n\\begin{align*}\nxyz &= 4, \\\\\nx^3 + y^3 + z^3 &= 4, \\\\\nxy^2 + x",
+        "solution": "ign*}\ns_1^3 &= (x + y + z)^3 \\\\\n&= (x^3 + y^3 + z^3) + 3(x^2 y + xy^2 + x^2 z + xz^2 + y^2 z + yz^2) + 6xyz \\\\\n&= 4 + 3 \\cdot 12 + 6 \\cdot 4 = 64,\n\\end{align*}so $s_1 = 4.$  Hence, $s_2 = \\frac{24}{s_1} = \\boxed{",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/1407.json"
+    },
+    {
+        "problem": "eil{\\sqrt{20}}\\rce",
+        "solution": "eater than or eq",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "e calculation $\\frac{-3+4i}{1+2i}$. However, he accidentally missed the minus sign, finding $\\frac{3+4i}{1+2",
+        "solution": "$. Multiplying: \\begin{align*}\n\\frac{-3+4i}{1+",
+        "answer": "1+",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2264.json"
+    },
+    {
+        "problem": "many zeroes are at the end of $42!$ (42 factorial)?  (Reminder: The number $n!$ is the prod",
+        "solution": " time a number is a multiple of $5$, it adds a factor of $5$ to the prime factorization. There are $8$ multiples of $5$ between $1$ and $42$. Now look at $25$. It actual",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1297.json"
+    },
+    {
+        "problem": ") \\dotsm [(2n)^4 + \\frac{1}{4}]}{(1^4 + \\frac{1}{4})(3^4 + \\frac{1}{4}) \\dotsm [(2n - 1)^4 + \\frac{1}{4}]",
+        "solution": "c{1}{4})(4^4 + \\frac{1}{4}) \\dotsm [(2n)^4 + \\frac{1}{4}]}{(1^4 + \\frac{1}{4})(3^4 + \\frac{1}{4}) \\dotsm [(2n - 1)^4 + \\frac{1}{4}]} &= \\frac{f(2) f(4) \\dotsm f(2n)}{f(1) f(3) \\dotsm f(2n - 1)} \\\\\n&",
+        "answer": "n^2 + ",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1467.json"
+    },
+    {
+        "problem": "$\\sqrt{f(f(f(f(1))))}.$",
+        "solution": "fore, $f(f(f(f(1)))) = f(16) = 2^{16}$ and so $\\sqrt{f(f(f(f(1))))} = \\sqrt{2^{16}} = 2^8 = \\boxed",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1343.json"
+    },
+    {
+        "problem": "er equals 7 divided by that number.  What is ",
+        "solution": "des gives $3 = \\dfrac{6}{x}$. Multiplying both sides of this equation by $x$ gives $3x =6$",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/251.json"
+    },
+    {
+        "problem": "bf{b},$ $\\mathbf{c}$ be three vectors such that\n\\[\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 6 \\\\ -7 \\\\ 3 \\end{pmatrix}, \\quad \\mathbf{a} \\times \\mathbf{c} = \\begin{pmatrix} 4 \\\\ 7 \\\\ 2 \\e",
+        "solution": "mes \\mathbf{b} - 3 \\mathbf{a} \\times \\mathbf{c} - \\mathbf{0} \\\\\n&= 6 \\begin{pmatrix} 1 \\\\ - 7 \\\\ 18 \\end{pmatrix} - 2 \\begin{pmatrix} 6 \\\\ - ",
+        "answer": "\\begin{pmatrix} -18 \\\\ ",
+        "subject": "Precalculus",
+        "level": 4,
+        "unique_id": "test/precalculus/881.json"
+    },
+    {
+        "problem": ": 3^{2x} + 19 = 1",
+        "solution": " $x=3$, we see that $10^x-9^x$ is increasing for $x>0$, and it equals 19 when $x=\\boxed{2}$.\n\nNote: Using calculus, we cou",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/2046.json"
+    },
+    {
+        "problem": " as vertices: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ How many points with integer coordinates will be stric",
+        "solution": "linewidth(0.8));\nadd(grid(10,8));\ndraw((1,1)--(9,1)--(9,7)--(1,7)--cycle,linewidth(1.2));\n[/asy] Note: We are counting points, not squares. It is a common mistake to count the interior squares, for 48, instead of interior lat",
+        "answer": "6",
+        "subject": "Counting & Probability",
+        "level": 4,
+        "unique_id": "test/counting_and_probability/25149.json"
+    },
+    {
+        "problem": "$ is a factor of $x^9 + px^6 + qx^3 + r.$  Enter the ord",
+        "solution": " (3 \\alpha^2 - 4 \\alpha + 1) + 51 \\alpha^2 - 27 \\alpha + 4 \\\\\n&= -63 \\alpha^2 + 190 \\alpha - 54.\n\\end{align*}Then\n\\begin{align*}\n\\alpha^9 + p \\alpha^6 + q \\alpha^3 + r &= (-63 \\alpha^2 + 190 \\alpha - 54) + p (-5 \\alpha^2 - 11 \\alpha + 4) + q (3 \\alpha^2 - 4 \\alpha + 1) + r \\\\\n&= (-5p + 3q - 63) \\alpha^2 + (-11p - 4q + 190) \\alpha + (4p + q + r - 54).\n\\end{align*}We want this to reduce to 0, so we set\n\\begin{align*}\n-5p + 3q &= ",
+        "answer": "31,-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/956.json"
+    },
+    {
+        "problem": "ogram are (5, 3), (6, 8), (7, 4) and $(x, y)$ and $x > 7$.",
+        "solution": "inewidth(0.7)+fontsize(10));\ndotfactor=5;\nreal x = 7;\npair A=(5,3), B=(6,8), C=(7,4), D1=(8,9), D2=(4,7),D3=(6,-1);\npair[] dots = {A,B,C};\ndot(dots);\nxaxis(-2,10,Ticks(\" \",1.0,begin=false,end=false,NoZero),Arrows(4));\nyaxis(-2,10,Ticks(\" \",1.0,begin=false,end=false,NoZero),Arrows(4));\ndraw(A--C--D1--B--cycle);//linetype(\"8 8\"));\ndraw(A--D3--C);\ndraw(A--C--B--D2--cycle);//,linetype(\"1 2 3 1\"));\nlabel(\"$A(5,3)$\",A,SW);\nlabel(\"$B(6,8)$\",B,NW);\nl",
+        "answer": "7",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/627.json"
+    },
+    {
+        "problem": "f $3x-9$ is $x+37$. What is th",
+        "solution": " 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both side",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "w((15,0)--(15,5));\ndraw((18,0)--(18,5));\n\nlabel(scale(0.8)*\"50s\", (7.5,4.5));\nlabel(scale(0.8)*\"4\", (7.5,3.5));\nlabel(scale(0.8)*\"8\", (7.5,2.5));\nlabel(scale(0.8)*\"6\", (7.5,1.5));\nlabel(scale(0.8)*\"3\", (7.5,0.5));\n\nlabel(scale(0.8)*\"60s\", (10.5,4.5));\nlabel(scale(0.8)*\"7\", (10.5,3.5));\nlabel(scale(0.8)*\"4\", (10.5,2.5));\nlabel(scale(0.8)*\"4\", (10.5,1.5));\nlabel(scale(0.8)*\"9\", (10.5,0.5));\n\nlabel(scale(0.8)*\"70s\", (13.5,4.5));\nlabel(scale(0.8)*\"12\", (13.5,3.5));\nlabel(scale(0.8)*\"12\", (13.5,2.5));\nlabel(scale(0.8)*\"6\", (13.5,1.5));\nlabel(scale(0.8)*\"13\", (13.5,0.5));\n\nlabel(scale(0.8)*\"80s\", (16.5,4.5));\nlabel(scale(0.8)*\"8\", (16.5,3.5));\nlabel(scale(0.8)*\"15\", (16.5,2.5));\nlabel(scale(0.8)*\"10\", (16.5,1.5));\nlabel(scale(0.8)*\"9\", (16.5,0.5));\n\nlabel(scale(0.8)*\"Country\", (3,4.5));\nlabel(scale(0.8)*\"Brazil\", (3,3.5));\nlabel(scale(0.8)*\"France\", (3,2.5));\n",
+        "solution": "et$  Spain, $13(\\$ 0.05) = \\$ 0.65.$\n\nThe total is $\\$2.33$ fo",
+        "answer": ".4 \\text",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1044.json"
+    },
+    {
+        "problem": "d{pmatrix} = \\begin{pmatrix} 2 \\\\ 4 \\\\ -3 \\end{pmatrix} \\quad \\text{and} \\quad \\mathbf{A} \\begin{pmatrix} -5 \\\\ 2 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ -5 \\\\ -",
+        "solution": "dding the equations $\\mathbf{A} \\begin{pmatrix} -5 \\\\ 2 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ -5 \\\\ -5 \\end{pmatrix}$ and $\\mathbf{A} \\begin{pmatrix} -8 \\\\ 1 ",
+        "answer": "\\\\ -14 \\\\ -7 \\end{pmat",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/263.json"
+    },
+    {
+        "problem": "ame forwards and backwards. The sum of a particular set of three consecutive positive integers is a three-digit palindrome. If the sum is l",
+        "solution": ", 181$, and $171$, we find that $171$ is the greatest palindrome whic",
+        "answer": "8",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/488.json"
+    },
+    {
+        "problem": "aystyle\\left(a+\\frac{1}{b}\\right)\\left(\\frac{1}{b}-a\\right) $?  Express your answer as a common fr",
+        "solution": "also have the lea",
+        "answer": "\\frac{",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2517.json"
+    },
+    {
+        "problem": "t{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. What is $A+B+C+D",
+        "solution": "sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are inter",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "rac{1}{3}Bh$, where $B$ is the area of the base and $h$ is the height. The area of the base of a cone is 30 square units, and",
+        "solution": "e find that \\[\\frac{1}{3}Bh = \\frac{1}{3}(30)(6.5) = ",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/478.json"
+    },
+    {
+        "problem": "2 girls to give a group presentation tomorrow? (The order in which the boys and girls are chosen does not m",
+        "solution": "ts each combination of boys 6 times since picking any of the three boys first followed by either of the other two followed by the third one will give the same triplet of boys. So the total number of wa",
+        "answer": "1",
+        "subject": "Counting & Probability",
+        "level": 3,
+        "unique_id": "test/counting_and_probability/23957.json"
+    },
+    {
+        "problem": ".  How many outfits can you make consisting of one shirt, one pair o",
+        "solution": "or hats, for a total of $5 \\times 6 \\times 8 = \\",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 1,
+        "unique_id": "test/prealgebra/307.json"
+    },
+    {
+        "problem": "t{and} \\quad q = \\sum_{k = 1}^\\infty \\frac{1}{k^3}.\\]Find a way to write\n\\[\\sum_{j = 1}^\\infty \\sum_{k = 1}^",
+        "solution": " pairs.  Therefore,\n\\begin{align*}\n\\sum_{j = 1}^\\infty \\sum_{k = 1}^\\infty \\frac{1}{(j + k)^3} &= \\sum_{n = 1}^\\infty \\frac{n - 1}{n^3} \\\\\n&= \\sum_{n = 1}^\\infty \\left( \\frac{n}{n^3} - \\frac{1}{n^3} \\right) \\\\\n&= \\sum_{n = 1}^\\infty \\left( \\frac{1}{n^2} - \\frac{1}{n^3} \\right) \\\\\n&= \\sum_{n = 1}^\\infty \\frac{1}{n^2} - \\su",
+        "answer": "p ",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1994.json"
+    },
+    {
+        "problem": "asy]\npair D,E,F;\nF = (0,0);\nD = (sqrt(51),7);\nE = (0,7);\ndraw(D--E--F--D);\ndraw(rightanglemark(D,E,F,15));\nlabel(\"$D$\",D,NE);\nl",
+        "solution": "sing the Pythagorean Theorem, we find that the length of $DE$ is $\\sqrt{DF^2 - EF^2},$ or $\\sqrt{100 - 49} = \\boxed{\\sqrt",
+        "answer": "rt{5",
+        "subject": "Precalculus",
+        "level": 1,
+        "unique_id": "test/precalculus/1303.json"
+    },
+    {
+        "problem": "lygon if the sum of all but one of its interior angles is ",
+        "solution": "asures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "inating decimal representation of the fraction $\\frac{432",
+        "solution": "{1}}=\\frac{4321\\cdot5}{10^8}=\\frac{21605}",
+        "answer": "4",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/183.json"
+    },
+    {
+        "problem": "red to shake each other's hands, since they are all good friends already, and the sorcerers all sort of hate each other and did not shake hands with other sorcerers. How many han",
+        "solution": "$ sorcerers, so there were $6 \\cdot 10 ",
+        "answer": "6",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1227.json"
+    },
+    {
+        "problem": "}$ has vertical asymptotes $x=a$ and $x=b$, and horizontal asymp",
+        "solution": "rows faster than the numerator for large values of $x$, and the function approaches the hori",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/305.json"
+    },
+    {
+        "problem": "t $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. How many integer coordinates will be",
+        "solution": "e. The height of the rectangle is $4 - (-4) = 8$ units. There will be 7 lattice positions between the top and bottom of the rectangle. That's a total o",
+        "answer": "3",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/1097.json"
+    },
+    {
+        "problem": "ind the greatest common divisor",
+        "solution": "he greatest common divisor of $3339$ and $2961$ is $63$.\n\nNext, we can find the greatest common d",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/357.json"
+    },
+    {
+        "problem": " + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ is divide",
+        "solution": "gives us\n\\[(-1)^{611} + 3^{11} + (-3)^{11} ",
+        "answer": "1",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/1555.json"
+    },
+    {
+        "problem": "\n\\[\\cos \\left( \\frac{2 \\pi}{15} \\right) \\cos \\left (\\frac {4 \\pi}{15} \\right) \\cos",
+        "solution": "15} \\right) \\cos \\left (\\frac {4 \\pi}{15} \\right) \\cos \\left( \\frac{8 \\pi}{15} \\right) \\cos \\left( \\frac {16 \\pi}{15} \\right) \\\\\n&= \\frac{1}{4} \\sin \\left (\\frac {8 \\pi}{15} \\right) \\cos \\left( \\frac{8 \\pi}{15} \\right) \\cos \\left( \\frac {16 \\pi}{15} \\right) \\\\\n&= \\frac{1}{8} \\sin \\left( \\frac{16 \\pi}{15} \\right) \\cos \\left( \\frac {16 \\pi}{15} \\right) \\\\\n&= \\frac{1}{16} \\sin \\left( \\frac{32 \\pi}{15} \\right) \\\\\n&= \\frac{1}{16} \\sin \\left( \\frac{2 \\pi}{15} \\right),\n\\end{align*}so $x = \\b",
+        "answer": "\\frac{",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/826.json"
+    },
+    {
+        "problem": "er is selected at random from 1 through 100, inclusive.  What",
+        "solution": " 3,3\\times 3,\\ldots,33\\times 3)$.  So the probability that a randomly selected numb",
+        "answer": "33}{100",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1742.json"
+    },
+    {
+        "problem": "quotient $413_5 \\div 2_5",
+        "solution": "-3}\n\\multicolumn{2}{r}{} & 1 & 3 \\\\\n\\multicolumn{2}{r}{} & 1 & 3 \\\\ \\cline{3-4}\n\\multicolumn{2}{r}{} & & 0\n\\end{array}\n\\]for a quotient of $\\boxed{204_5}$. Note that in the above calculation we have used that $13_5$ divided by $2_5$ is $4_5$, which fol",
+        "answer": "4_",
+        "subject": "Number Theory",
+        "level": 4,
+        "unique_id": "test/number_theory/1257.json"
+    },
+    {
+        "problem": "sitive perfect cube that can be written as the sum o",
+        "solution": "integers that sum to give $n$.  Therefore, a number is a sum of three consecutive integers if and only if it i",
+        "answer": "2",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/515.json"
+    },
+    {
+        "problem": " below, what is the value of   $\\square$ ? \\begin{align*}\n\\triangle + \\square &= \\clubsuit \\\\\n\\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\\n\\tria",
+        "solution": "4 or 8 and $c$ correspondingly either 1 or 2. The first case, $c=1$ and $d=4$, does not work because plugging those two values into the third given equation gives $2a=5$, which is impossible if $a$ is",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1553.json"
+    },
+    {
+        "problem": "?\n[asy]\nsize(4cm);\ndefaultpen(linewidth(0.75));\nreal adc = 100;\npair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0);\npath inner = arc(d, a/2, c/2, CW);\n\npath outer = arc(d, c, a, CCW);\nguide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle;\nguide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle;\nfill(region1, gray(0.75));\nfill(region2, gray(0.75))",
+        "solution": "d inner circles, or $\\pi(2^2) - \\pi(1^2) = 3\\pi$. The shaded region of the outer ring will be $\\frac x{360}$ of this total area. So the shaded region of the outer r",
+        "answer": "1",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/465.json"
+    },
+    {
+        "problem": "e points satisfies the equation\n\\[x^2 + ay^2 + bx + cy + d = 0.\\]Compute the ordered quadruple $(a,b,c,d)$ of",
+        "solution": "ew circle is\n\\[(x - 8)^2 + (y - 2)^2 = 25.\\]This simplifies to $x^2 + y^2 - 16x - 4y + 43 = 0.$  Hence, $(a,b,c,d) = \\boxed{(1,-16",
+        "answer": "6,-4,4",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/690.json"
+    },
+    {
+        "problem": "o be a repeating decimal. How many digits repeat in this repeating decimal?\n\nFor example, if you get the repeating decimal $0.\\overline{123},$ then your a",
+        "solution": "{00279}$. Then multiplying both sides $10^5",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/465.json"
+    },
+    {
+        "problem": "\\frac{1}{5}\\cdot \\frac{8}{7}\\",
+        "solution": "that $8$ and $12$ have a common factor of $4",
+        "answer": "\\frac{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1995.json"
+    },
+    {
+        "problem": "eet is 3 inches? Express your answer as",
+        "solution": "hes is",
+        "answer": "{1}{8",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "rac{3}{20}$ as a ",
+        "solution": "y 5 gives $3/20=15/100 = \\boxed{",
+        "answer": "0.",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/572.json"
+    },
+    {
+        "problem": "hat is the value of $5\\star1$",
+        "solution": "r 1 = 9(5)+2(1)-(5)(1)+5= 45+2",
+        "answer": "7",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/2789.json"
+    },
+    {
+        "problem": "8 representatives on the Student Council. How many representatives should the 8th grade have if there is to be a fair represen",
+        "solution": " if it's divisible by $13$ and find that $117 = 9 \\cdot 13$. Thus to have fair representation, the 8th grade should have $\\frac{65}{117} \\times 18 = \\frac{5}{9} \\times 18 = \\b",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/2476.json"
+    },
+    {
+        "problem": "x$ such that $\\sqrt[3]{x^2 - 4x + 4} =",
+        "solution": "= \\pm 16^{3/2} = \\pm 64$.  Therefore, the possible values of $x$ are $-62$ and $66,$ and the only po",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/1338.json"
+    },
+    {
+        "problem": "contain pens, and two of the boxes contain both pens and pencils. How many boxes contain neith",
+        "solution": "draw(Circle((58, 45), 22));\nlabel(\"$2$\", (44, 45));\nlabel(scale(0.8)*\"$3$\",(28,58));\nlabel(scale(0.8)*",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 1,
+        "unique_id": "test/counting_and_probability/761.json"
+    },
+    {
+        "problem": "n (measured in number of sales) is inversely proportional to its cost. If 15 customers buy a television that costs $\\$$1500, according to Daniel's theo",
+        "solution": " $c=1500$, then $k=(15)(1500)=22500$. So when $c=2500$, \\begin{align*",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1332.json"
+    },
+    {
+        "problem": " were so large, there was enough food for 18 people. If they share, how many meals should they have ordered to have just enough f",
+        "solution": "ld have ordered $\\frac{12}{\\frac{3}{2}}",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1787.json"
+    },
+    {
+        "problem": "ue of $513^2 - 487",
+        "solution": " 487^2 = (513+487)(513-487) = (1000",
+        "answer": "00",
+        "subject": "Algebra",
+        "level": 1,
+        "unique_id": "test/algebra/2592.json"
+    },
+    {
+        "problem": "anes, one left-turn lane, one straight-going lane, and one right-turn lane. How many ways can the cars stack up so that all three lanes are occupied?\n\nNote that if the first car turns left and the second goes straight, this is considered differ",
+        "solution": "r lane and right-turn lane open. But we have double-counted the situations where two lanes are left empty. Fortunately, since each driver must go into the third lane, there are only 3 situations we have over-counted. This leaves $3\\cdot2^6-3=189$ ways to leave at lea",
+        "answer": "4",
+        "subject": "Counting & Probability",
+        "level": 5,
+        "unique_id": "test/counting_and_probability/894.json"
+    },
+    {
+        "problem": "s is being filled with water at a rate of $20\\pi$ cubic meters per hour. As the tank is filled, the water level rises four meters per h",
+        "solution": "the radius.  \\begin{align*}\n\\pi r^2h_f-\\pi r^2h_0&=V_f-V_0\\quad\\Rightarrow\\\\\n\\pi r^2(\\Delta h)&=\\Delta V\\quad\\Rightarrow\\\\\n\\pi r^2(4)&=20\\pi\\quad\\Rightarrow\\\\\n4r^2&=20\\quad\\Rightarrow\\\\\nr^2&=5\n\\end{align*} Since the radius must be",
+        "answer": "rt{5",
+        "subject": "Geometry",
+        "level": 4,
+        "unique_id": "test/geometry/353.json"
+    },
+    {
+        "problem": "th side length 16 cm.  How long is each side of the octagon? [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--",
+        "solution": "e hexagon have the ",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/930.json"
+    },
+    {
+        "problem": "t\\| \\le C \\|\\bold{v}\\|\\]for all two-dimensional vectors $\\bold{v}.$\n\nNote that for a two-dimensional vector $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ is the m",
+        "solution": "t-hand side is equivalent to maximizing its square, namely\n\\[\\frac{4x^2 + 12xy + 13y^2}{x^2 + y^2}.\\]Let $k$ be a possible value of this expression, which m",
+        "answer": "",
+        "subject": "Precalculus",
+        "level": 5,
+        "unique_id": "test/precalculus/675.json"
+    },
+    {
+        "problem": "nd the greatest integer less than $(\\sqrt{7} ",
+        "solution": " 12^2 + 2 \\cdot 12 \\cdot 2 \\sqrt{35} + 2^2 \\cdot 35 = 284 + 48 \\sqrt{35},\\]and\n\\begin{align*}\nx^6 &= ",
+        "answer": "35",
+        "subject": "Intermediate Algebra",
+        "level": 3,
+        "unique_id": "test/intermediate_algebra/607.json"
+    },
+    {
+        "problem": "d $\\omega \\neq 1,$ then evaluate\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\o",
+        "solution": "{1 + \\omega}, \\ \\frac{1}{1 + \\omega^2}, \\ \\dots, \\ \\frac{1}{1 + \\omega^{1995}}, \\ \\frac{1}{1 + \\omega^{1996}}\\]into $19",
+        "answer": "{1997}{",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1354.json"
+    },
+    {
+        "problem": "{n + 2}},\\]where $F_n$ denotes the $n$th Fibonacci number, so $F_0 = ",
+        "solution": "&= \\left( \\frac{1}{F_1} - \\frac{1}{F_3",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/102.json"
+    },
+    {
+        "problem": "atrix}} \\mathbf{v} = \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}\\]lie on a line.  Enter the equation of this line in the ",
+        "solution": "frac{\\begin{pmatrix} x \\\\ y \\end{pmatrix} \\cdot \\begin{pm",
+        "answer": "= -",
+        "subject": "Precalculus",
+        "level": 3,
+        "unique_id": "test/precalculus/356.json"
+    },
+    {
+        "problem": "24,\\!000$ is made in a government bond that will pay $1\\%$ bi-monthly interest (meaning that the investment will increase by $1\\%$ every two months). ",
+        "solution": "toll",
+        "answer": ",",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2626.json"
+    },
+    {
+        "problem": "begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ is\n\\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\en",
+        "solution": "ix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix} \\cdot \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix} = \\",
+        "answer": "4",
+        "subject": "Precalculus",
+        "level": 2,
+        "unique_id": "test/precalculus/34.json"
+    },
+    {
+        "problem": "nd $g(x) = \\sqrt{x}$, then what i",
+        "solution": "= 3- g(4) = 3-\\sqrt{4} = 3-2 = \\b",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/1529.json"
+    },
+    {
+        "problem": "ed positive odd integer less than 2010 gives a terminating decimal, with $a$ and $b$ being relatively prime ",
+        "solution": "{align*}\n5^0 &= 1 \\\\\n5^1 &= 5 \\\\\n5^2 &= 25 \\\\\n5^3 &= 125 \\\\\n5^4 &= 625\n\\end",
+        "answer": "0",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/1090.json"
+    }
+]

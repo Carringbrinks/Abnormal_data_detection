@@ -1,0 +1,2802 @@
+[
+    {
+        "problem": " the sum of all but one of its interior angles is $1070^{\\",
+        "solution": "olygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\circ$.  But this is impossible because each interior ang",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "\\lceil{\\sqrt{20}}\\",
+        "solution": "<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lce",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": " all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all such int",
+        "solution": "2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$  This factors as $(n - 1)(n + 2) = 0,$ so the solutions are $n",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "des would there be in a convex polygon if the sum of all b",
+        "solution": "s.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last in",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "iven that $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e",
+        "solution": "$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = \\frac{16}{5},$",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " feet is 3 inches? Express your answer ",
+        "solution": "t12=24$ inches, 3 inches is $3/24=\\boxed{\\f",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "at $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, ",
+        "solution": " 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = \\frac{16}{5},$ so the maximum value of $e$",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "nal equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all int",
+        "solution": "nd{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all inte",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{",
+        "solution": "{21}=(7)(10)\\left(\\frac{21}{30}\\right)=\\b",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all such integers, separated by",
+        "solution": "2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "s 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag befo",
+        "solution": "Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equ",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "f I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag before I add",
+        "solution": "of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplyin",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "feet is 3 inches? Express your answer a",
+        "solution": "s $2\\cdot12=24$ inches, 3 inches is $3/24=\\",
+        "answer": "c{1}{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "raction of 2 feet is 3 inches? Express ",
+        "solution": " 2 feet is $2\\cdot12=24$ inches, 3 inches i",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "lue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many bl",
+        "solution": "es and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "sqrt{20}}\\rceil^2$",
+        "solution": "rt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "rac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\fr",
+        "solution": "We have $\\frac{7}{30}@\\frac{10}{21}=(7)(1",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "uch that whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the ",
+        "solution": " get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic equations that work, namely $x^2 - 4x + 4,$ $x",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "cceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150",
+        "solution": " $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Ri",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + ",
+        "solution": "+ d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": ") - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Ent",
+        "solution": "= \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$  This factors as $(n - 1)(n + 2) = 0,$ so t",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": ". At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the",
+        "solution": " yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the sol",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " that $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= ",
+        "solution": "chy-Schwarz,\n\\[(a^2 + b^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge ",
+        "answer": "rac{16",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " one of the triangles is 21 inches, what is the perimeter, in inches, of the regular hex",
+        "solution": " side length of one of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches}",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "can  5 students be selected from a g",
+        "solution": "udents out of a group of 6 students  without regard to or",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marble",
+        "solution": "int the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number of blue marbles before more were added, the answer to the problem is just $",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "he sum of all but one of its interior angles is $1070^{\\ci",
+        "solution": "80(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = ",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": " values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the rang",
+        "solution": " positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ must be an integer, the only possible distinct values contained in the range are -1, 0, and 1",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": ":3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag before ",
+        "solution": "c{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$.",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "tions of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equ",
+        "solution": "$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the r",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": " many ways can  5 students be select",
+        "solution": "can choose 5 students out of a group of 6 students  witho",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "te $\\lceil{\\sqrt{2",
+        "solution": "}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "polygon if the sum of all but one of its interior angles i",
+        "solution": "\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\circ$.  But this is impossible because each interior angle of a conv",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "quations of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the ",
+        "solution": " $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "be selected from a group of 6 studen",
+        "solution": "p of 6 students  without regard to order in $\\binom{6}{5}",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "ceil{\\sqrt{20}}\\rc",
+        "solution": "rt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": " a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How man",
+        "solution": " continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$.",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter ",
+        "solution": "\\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f",
+        "answer": ",-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "$3x-9$ is $x+37$. What is the ",
+        "solution": "em to the equation $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "$\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqr",
+        "solution": "ate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sq",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "+ b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maximum",
+        "solution": " 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEqualit",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "students be selected from a group of",
+        "solution": "udents  without regard to order in $\\binom{6}{5} = \\boxed",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "eil{\\sqrt{20}}\\rce",
+        "solution": " equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "number of quadratic equations of the form $x^2 + ax + b = 0,$ such that whenever ",
+        "solution": "$r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "ac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}",
+        "solution": "e $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "  5 students be selected from a grou",
+        "solution": "ents out of a group of 6 students  without regard to orde",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "m $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. What ",
+        "solution": "+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 = \\boxed{1",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "bers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\",
+        "solution": " $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "the value of $3x-9$ is $x+37$.",
+        "solution": "on $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both si",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "r of one of the triangles is 21 inches, what is the perimeter, in inches, of the regular",
+        "solution": "qual to the side length of one of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\te",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "n @ is defined as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fra",
+        "solution": "30}@\\frac{10}{21}=(7)(10)\\left(\\frac{21}{",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "+37$. What is the value of $x$",
+        "solution": "s by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yield",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "y ways can  5 students be selected f",
+        "solution": "choose 5 students out of a group of 6 students  without r",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "nts be selected from a group of 6 st",
+        "solution": "ents  without regard to order in $\\binom{6}{5} = \\boxed{6",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "floor\\left(-\\frac58\\right)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty",
+        "solution": "ive values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " of $3x-9$ is $x+37$. What is ",
+        "solution": "ate the problem to the equation $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. ",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "er of quadratic equations of the form $x^2 + ax + b = 0,$ such that whenever $c$ ",
+        "solution": "- r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "ents be selected from a group of 6 s",
+        "solution": " 5 students out of a group of 6 students  without regard ",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "luate $\\lceil{\\sqr",
+        "solution": "sqrt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater th",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value",
+        "solution": "rac{7}{30}@\\frac{10}{21}=(7)(10)\\left(\\fr",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "ays can  5 students be selected from",
+        "solution": "se 5 students out of a group of 6 students  without regar",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " 3 inches? Express your answer as a com",
+        "solution": "4$ inches, 3 inches is $3/24=\\boxed{\\frac{1",
+        "answer": "frac{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "of the equation below is a parabola, circle, ellipse, hyperbola, point, line, two",
+        "solution": "n $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right",
+        "answer": "ext{ell",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "h of the equation below is a parabola, circle, ellipse, hyperbola, point, line, t",
+        "solution": "verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2}{4} + y^2 = 10 \\]is the equ",
+        "answer": "llipse}",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "s a parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\le",
+        "solution": "$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2}{4} + y^2 = 10 \\]is t",
+        "answer": "t{ellip",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": " for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{1",
+        "solution": "ac{10}{21}=(7)(10)\\left(\\frac{21}{30}\\rig",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "oment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio wil",
+        "solution": "ore. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation g",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "raction of 2 feet is 3 inches? Express ",
+        "solution": " $2\\cdot12=24$ inches, 3 inches is $3/24=\\b",
+        "answer": "frac{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\f",
+        "solution": "$\\frac{7}{30}@\\frac{10}{21}=(7)(10)\\left(",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": " function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many ",
+        "solution": " and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "tion that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many disti",
+        "solution": "nteger values of $x$, and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " of quadratic equations of the form $x^2 + ax + b = 0,$ such that whenever $c$ is",
+        "solution": " - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic equations that work, namely $x^2 - 4x + 4,$ $x^2 + 2x + 1,$ $x^2 - x - 2,$ $x^2 + x - 1,$ $x^2 - ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "a convex polygon if the sum of all but one of its interior",
+        "solution": "ngle measures in a polygon with 7 sides sum to $180(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measu",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "ac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}",
+        "solution": "ing top and bottom by the conjugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "umbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.",
+        "solution": " c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\fra",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "he moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio",
+        "solution": " marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number of bl",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maximu",
+        "solution": "auchy-Schwarz,\n\\[(a^2 + b^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\g",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "perimeter of one of the triangles is 21 inches, what is the perimeter, in inches, of the",
+        "solution": ", the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "eil{\\sqrt{20}}\\rce",
+        "solution": "ently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Th",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "x equilateral triangles. If the perimeter of one of the triangles is 21 inches, what is ",
+        "solution": "ngles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm)",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value ",
+        "solution": "e $\\frac{7}{30}@\\frac{10}{21}=(7)(10)\\lef",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "an be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ ar",
+        "solution": "d bottom by the conjugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "{\\sqrt{20}}\\rceil^",
+        "solution": "er greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rceil^2=5^2=\\boxed{",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "raph of the equation below is a parabola, circle, ellipse, hyperbola, point, line",
+        "solution": "To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2}{4} + y^2 = 10 \\]is the ",
+        "answer": "\\text{e",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "y sides would there be in a convex polygon if the sum of a",
+        "solution": "(n-2)$ degrees, so the angle measures in a polygon with 7 sides sum to $180(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, n",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "s be selected from a group of 6 stud",
+        "solution": "ut of a group of 6 students  without regard to order in $",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is also a root o",
+        "solution": "$s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 =",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "en that $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &",
+        "solution": ".\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d ",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were",
+        "solution": "arbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceleration of Jen's ball to Jack's?  Answer as a fraction in low",
+        "solution": " Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdo",
+        "answer": "frac",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "uate $\\lceil{\\sqrt",
+        "solution": "<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lce",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "e number of quadratic equations of the form $x^2 + ax + b = 0,$ such that wheneve",
+        "solution": "^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\box",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "re real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e",
+        "solution": "(a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs whe",
+        "answer": "c{16}{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\",
+        "solution": "0}{21}=(7)(10)\\left(\\frac{21}{30}\\right)=",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "er of one of the triangles is 21 inches, what is the perimeter, in inches, of the regula",
+        "solution": " perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3)));\n}[/as",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": " is 3 inches? Express your answer as a ",
+        "solution": "feet is $2\\cdot12=24$ inches, 3 inches is $",
+        "answer": "\\frac",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": " is $x+37$. What is the value ",
+        "solution": "tiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ t",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": " moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio w",
+        "solution": "ven that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ a",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " the equation below is a parabola, circle, ellipse, hyperbola, point, line, two l",
+        "solution": "quation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\",
+        "answer": "\\text{e",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "a parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\left",
+        "solution": ". So, we suspect this equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that ",
+        "answer": "\\text{e",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "imes acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass o",
+        "solution": "then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1}{j_2} = \\boxed{\\fr",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "8\\right)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)",
+        "solution": "tionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " $\\lceil{\\sqrt{20}",
+        "solution": "<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or eq",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "he functional equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then fi",
+        "solution": "\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n)",
+        "answer": ",-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "ations of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the eq",
+        "solution": "- 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "n of 2 feet is 3 inches? Express your a",
+        "solution": "t is $2\\cdot12=24$ inches, 3 inches is $3/2",
+        "answer": "c{1}{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "te $\\lceil{\\sqrt{2",
+        "solution": " equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "f one of the triangles is 21 inches, what is the perimeter, in inches, of the regular he",
+        "solution": "he perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3)));\n}[/",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "t{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A",
+        "solution": "and bottom by the conjugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": " form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 ",
+        "solution": "these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic equations that work, namely",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "nts be selected from a group of 6 st",
+        "solution": "oose 5 students out of a group of 6 students  without reg",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "e in a convex polygon if the sum of all but one of its int",
+        "solution": "ees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  The",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": " $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2",
+        "solution": "4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e",
+        "answer": "{16}{5",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive inte",
+        "solution": "ate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sq",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  W",
+        "solution": " have $\\frac{7}{30}@\\frac{10}{21}=(7)(10)",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "low and blue marbles in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and re",
+        "solution": "r of yellow marbles before I added more. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cr",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " $x+37$. What is the value of ",
+        "solution": "tion $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both ",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is ",
+        "solution": "his leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  Th",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "blue marbles in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 y",
+        "solution": "iven that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number of blue marbles before more were added, the answer to t",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7",
+        "solution": "-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number of blue marbles before more wer",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " can be divided into six equilateral triangles. If the perimeter of one of the triangles",
+        "solution": "s twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1))",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "n can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$",
+        "solution": "rt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, ",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "f the sum of all but one of its interior angles is $1070^{",
+        "solution": "ees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  The",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "x + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is also a",
+        "solution": ": $r = s.$\n\nSince $r$ is the only root, we must have $r^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ an",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "uations of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the e",
+        "solution": "be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": " solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$,",
+        "solution": "3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "te $\\lceil{\\sqrt{2",
+        "solution": "e smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rce",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": " many sides would there be in a convex polygon if the sum ",
+        "solution": "sides sum to $180(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum ",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "ue of $3x-9$ is $x+37$. What i",
+        "solution": "ying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to bo",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": " defined as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions",
+        "solution": "{21}=(7)(10)\\left(\\frac{21}{30}\\right)=\\b",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "tion of 2 feet is 3 inches? Express you",
+        "solution": "12=24$ inches, 3 inches is $3/24=\\boxed{\\fr",
+        "answer": "c{1}{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "n be divided into six equilateral triangles. If the perimeter of one of the triangles is",
+        "solution": "The side length of the hexagon is equal to the side length of one of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the p",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "luate $\\lceil{\\sqr",
+        "solution": "uivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "{1+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\",
+        "solution": "2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 ",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all such integers, separated by ",
+        "solution": " y = 0,$ we get\n\\[2f(0) = f(0) - 1,\\]so $f(0) = -1.$\n\nSetting $y = 1,$ we get\n\\[f(x) + 1 = f(x + 1) - x - 1,\\]so\n\\[f(x + 1) - f(x) = x + 2.\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integ",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "  5 students be selected from a grou",
+        "solution": "ents  without regard to order in $\\binom{6}{5} = \\boxed{6",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "@ is defined as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fract",
+        "solution": "{7}{30}@\\frac{10}{21}=(7)(10)\\left(\\frac{",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "is $x+37$. What is the value o",
+        "solution": " = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$.",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the range",
+        "solution": "ving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ must be an integer, the only possible distinct values contained in the range are -",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "f the perimeter of one of the triangles is 21 inches, what is the perimeter, in inches, ",
+        "solution": "erimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3)));\n}[/asy]",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": " hyperbola, point, line, two lines, or empty.\n\n$\\left(\\frac x2 - 3\\right)^2 + y^2",
+        "solution": " $x$ with $\\frac x2$. So, we suspect this equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^",
+        "answer": "t{ellip",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "any ways can  5 students be selected",
+        "solution": " of 6 students  without regard to order in $\\binom{6}{5} ",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " function $f$ satisfies the functional equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.",
+        "solution": " we get\n\\[f(x) + 1 = f(x + 1) - x - 1,\\]so\n\\[f(x + 1) - f(x) = x + 2.\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive intege",
+        "answer": ",-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "x+37$. What is the value of $x",
+        "solution": " 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yields $ x = \\boxed{83}$.",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "\\right)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$",
+        "solution": "lly, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\lef",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "pse, hyperbola, point, line, two lines, or empty.\n\n$\\left(\\frac x2 - 3\\right)^2 +",
+        "solution": "with $\\frac x2$. So, we suspect this equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]a",
+        "answer": "\\text{e",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": " for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{1",
+        "solution": "e have $\\frac{7}{30}@\\frac{10}{21}=(7)(10",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "ed to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive in",
+        "solution": "\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "or simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{10}",
+        "solution": "}{21}=(7)(10)\\left(\\frac{21}{30}\\right)=\\",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "on of 2 feet is 3 inches? Express your ",
+        "solution": " 3 inches is $3/24=\\boxed{\\frac{1}{8}}$ of ",
+        "answer": "frac{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "valuate $\\lceil{\\s",
+        "solution": " smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rcei",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": " the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceleration of Jen's ",
+        "solution": " ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1}{j_2} = \\bo",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the max",
+        "solution": " + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality ",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of ",
+        "solution": "e acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qqu",
+        "answer": "\\fra",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "s to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio",
+        "solution": "the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\q",
+        "answer": "c 34",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": " whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equation",
+        "solution": "btracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic equations that wo",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": " is $x+37$. What is the value ",
+        "solution": "= 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yields $ x = \\boxed{83}$",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "ne of the triangles is 21 inches, what is the perimeter, in inches, of the regular hexag",
+        "solution": "ce as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "yellow and blue marbles in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and",
+        "solution": "e given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "of $3x-9$ is $x+37$. What is t",
+        "solution": ") = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": " as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceleration of Jen's ball to Jack's?",
+        "solution": "e have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1}{j_2} = \\boxed{\\frac 34}",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": " b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is also a ro",
+        "solution": "s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": " such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{",
+        "solution": "hus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\f",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " hyperbola, point, line, two lines, or empty.\n\n$\\left(\\frac x2 - 3\\right)^2 + y^2",
+        "solution": "looks like the equation of a circle, but we have replaced $x$ with $\\frac x2$. So, we suspect this equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\l",
+        "answer": "t{ellip",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "th yellow and blue marbles in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles ",
+        "solution": " yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the seco",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maximum va",
+        "solution": "(8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = \\fra",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " is 3 inches? Express your answer as a ",
+        "solution": "is $2\\cdot12=24$ inches, 3 inches is $3/24=",
+        "answer": "{1}{8",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. What is ",
+        "solution": "qrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2,",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "en wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is th",
+        "solution": "on of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "lf the value of $3x-9$ is $x+3",
+        "solution": "\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides ",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the si",
+        "solution": "21}=(7)(10)\\left(\\frac{21}{30}\\right)=\\bo",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "fined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exis",
+        "solution": "or integer values of $x$, and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2",
+        "solution": "\\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = ",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "te $\\lceil{\\sqrt{2",
+        "solution": "nce $\\sqrt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer grea",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "l{\\sqrt{20}}\\rceil",
+        "solution": "tly, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "e form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. ",
+        "solution": "}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 = \\boxed{",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "ph of the equation below is a parabola, circle, ellipse, hyperbola, point, line, ",
+        "solution": "\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2",
+        "answer": "ellipse",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + ",
+        "solution": "2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = \\frac{16}{5}",
+        "answer": "{16}{5",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "ents be selected from a group of 6 s",
+        "solution": "choose 5 students out of a group of 6 students  without r",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "luate $\\lceil{\\sqr",
+        "solution": "$\\sqrt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater ",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the max",
+        "solution": " $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "ex polygon if the sum of all but one of its interior angle",
+        "solution": "e interior angles in any $n$-sided polygon is $180(n-2)$ degrees, so the angle measures in a polygon with 7 sides sum to $180(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\c",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a r",
+        "solution": "e interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ m",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "= 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is also a root ",
+        "solution": " = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 +",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "yellow and blue marbles in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and",
+        "solution": "$ the number of yellow marbles before I added more. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all such integers, sep",
+        "solution": "\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2",
+        "answer": ",-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "here be in a convex polygon if the sum of all but one of i",
+        "solution": "sired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has m",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "l{\\sqrt{20}}\\rceil",
+        "solution": "er greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rceil^2=5^2=\\boxed{",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "qrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. What is $A+B+C",
+        "solution": "m by the conjugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = ",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "press your answer as a common fraction.",
+        "solution": "nches, 3 inches is $3/24=\\boxed{\\frac{1}{8}",
+        "answer": "frac{",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "In how many ways can  5 students be ",
+        "solution": "t of a group of 6 students  without regard to order in $\\",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": ") + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such tha",
+        "solution": "= \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$  This factors as $(n - 1)(n + 2) = 0,$ so t",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "own physics formula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a m",
+        "solution": "the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\q",
+        "answer": "frac",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "lceil{\\sqrt{20}}\\r",
+        "solution": "y, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, ",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "eil{\\sqrt{20}}\\rce",
+        "solution": ", equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must b",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "e of $3x-9$ is $x+37$. What is",
+        "solution": "ultiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "that whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equa",
+        "solution": " root, we must have $r^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": " $\\lceil{\\sqrt{20}",
+        "solution": "}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ ",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "ction that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many dist",
+        "solution": "left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloo",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}",
+        "solution": "0)\\left(\\frac{21}{30}\\right)=\\boxed{49}$.",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": " $\\lceil{\\sqrt{20}",
+        "solution": "sqrt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater th",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equation.",
+        "solution": "t, we must have $r^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 -",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "c{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  ",
+        "solution": "rac{10}{21}=(7)(10)\\left(\\frac{21}{30}\\ri",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  En",
+        "solution": "us,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real",
+        "solution": "e between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "et $f(x)=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ be a function that is defined for all values of $",
+        "solution": "e $-\\frac58$ is a negative number, $f(x)$ is only defined for integer values of $x$, and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloo",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "c{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the ",
+        "solution": "1}=(7)(10)\\left(\\frac{21}{30}\\right)=\\box",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "sides would there be in a convex polygon if the sum of all",
+        "solution": "han 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then t",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceler",
+        "solution": " the acceleration of Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 ",
+        "answer": "c 34",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": ". If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag before I ",
+        "solution": "re. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gi",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "t)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a",
+        "solution": " and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": " parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\left(",
+        "solution": "ext{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2}{4} + y^",
+        "answer": "ellipse",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": " $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integers. What i",
+        "solution": "}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2,",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "r$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. Ho",
+        "solution": "nd will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "ays can  5 students be selected from",
+        "solution": " out of a group of 6 students  without regard to order in",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "the number of quadratic equations of the form $x^2 + ax + b = 0,$ such that whene",
+        "solution": " s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ q",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "mula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g ",
+        "solution": "acceleration of Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot",
+        "answer": "\\fra",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "is 3 inches? Express your answer as a c",
+        "solution": "s, 3 inches is $3/24=\\boxed{\\frac{1}{8}}$ o",
+        "answer": "\\frac",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "lateral triangles. If the perimeter of one of the triangles is 21 inches, what is the pe",
+        "solution": "al triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsiz",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "eal numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &",
+        "solution": "^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = ",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + ",
+        "solution": "-Schwarz,\n\\[(a^2 + b^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "e value of $3x-9$ is $x+37$. W",
+        "solution": "= 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yields $ x = \\boxed{83}$",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[",
+        "solution": "sitive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ must be an integer, the only possible distinct values contained in the range are -1, 0, and 1. T",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "Evaluate $\\lceil{\\",
+        "solution": "llest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rceil^2=",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "$d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2",
+        "solution": "c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b ",
+        "answer": "c{16}{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "ues of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the range of",
+        "solution": "continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sq",
+        "solution": " \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "$\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q",
+        "solution": "ave $\\frac{7}{30}@\\frac{10}{21}=(7)(10)\\l",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "tions of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equ",
+        "solution": " $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "sqrt{20}}\\rceil^2$",
+        "solution": "r greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rceil^2=5^2=\\boxed{2",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "te $\\lceil{\\sqrt{2",
+        "solution": "{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than o",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "n{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine",
+        "solution": "b^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "ion $f$ satisfies the functional equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  If ",
+        "solution": "+ 1) - x - 1,\\]so\n\\[f(x + 1) - f(x) = x + 2.\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) ",
+        "answer": ",-",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maxi",
+        "solution": "a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in th",
+        "solution": " marbles and $y$ the number of yellow marbles before I added more. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "press your answer as a common fraction.",
+        "solution": "inches is $3/24=\\boxed{\\frac{1}{8}}$ of 2 f",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "qrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{",
+        "solution": "$\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified val",
+        "solution": "ac{10}{21}=(7)(10)\\left(\\frac{21}{30}\\rig",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "n.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what ",
+        "solution": "e have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad \\Rightarrow\\qquad \\frac{j_1}{j_2} = \\boxed{\\frac 34}",
+        "answer": "\\fra",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "n physics formula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mas",
+        "solution": " and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad",
+        "answer": "c 34",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "ow many ways can  5 students be sele",
+        "solution": " 6 students  without regard to order in $\\binom{6}{5} = \\",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "s $x+37$. What is the value of",
+        "solution": "es by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yiel",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": " a parabola, circle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\lef",
+        "solution": "his equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\f",
+        "answer": "ext{ell",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "$ be a function that is defined for all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How",
+        "solution": " occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ must be an integer, the only possible distinct values contained",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}",
+        "solution": "1}=(7)(10)\\left(\\frac{21}{30}\\right)=\\box",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "s the functional equation\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then",
+        "solution": " f(0) - 1,\\]so $f(0) = -1.$\n\nSetting $y = 1,$ we get\n\\[f(x) + 1 = f(x + 1) - x - 1,\\]so\n\\[f(x + 1) - f(x) = x + 2.\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "alf the value of $3x-9$ is $x+",
+        "solution": "ides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yi",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": " is 3 inches? Express your answer as a ",
+        "solution": " 3 inches is $3/24=\\boxed{\\frac{1}{8}}$ of ",
+        "answer": "{1}{8",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all su",
+        "solution": "\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ or $n^2 + n - 2 = 0.$  This factors as $(n - 1)(n + 2) = 0",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "rcle, ellipse, hyperbola, point, line, two lines, or empty.\n\n$\\left(\\frac x2 - 3\\",
+        "solution": "}}$. To verify this we write \\[\\left(\\frac x2 - 3\\right)^2 = \\frac 14 \\left( x - 6\\right)^2,\\]and we see that the equation \\[ \\frac{\\left(x - 6 \\right)^2}{4} + y^2 = 10 \\]is",
+        "answer": "{ellips",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": " marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in th",
+        "solution": "er of yellow marbles before I added more. We are given that the ratio of blue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. C",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 ",
+        "solution": " - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  T",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "9$ is $x+37$. What is the valu",
+        "solution": "1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield ",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "ny ways can  5 students be selected ",
+        "solution": "ents  without regard to order in $\\binom{6}{5} = \\boxed{6",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "n of 2 feet is 3 inches? Express your a",
+        "solution": "2 feet is $2\\cdot12=24$ inches, 3 inches is",
+        "answer": "{1}{8",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "2 feet is 3 inches? Express your answer",
+        "solution": "s, 3 inches is $3/24=\\boxed{\\frac{1}{8}}$ o",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "any sides would there be in a convex polygon if the sum of",
+        "solution": "he angle measures in a polygon with 7 sides sum to $180(7-2) = 900$ degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle m",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "eral triangles. If the perimeter of one of the triangles is 21 inches, what is the perim",
+        "solution": "ore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3))",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "ar hexagon can be divided into six equilateral triangles. If the perimeter of one of the",
+        "solution": " hexagon is equal to the side length of one of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexago",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "efined as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $",
+        "solution": "10)\\left(\\frac{21}{30}\\right)=\\boxed{49}$",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "r hexagon can be divided into six equilateral triangles. If the perimeter of one of the ",
+        "solution": "fore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3)",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "ution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and",
+        "solution": "+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 = \\boxed{1",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "feet is 3 inches? Express your answer a",
+        "solution": "=24$ inches, 3 inches is $3/24=\\boxed{\\frac",
+        "answer": "{1}{8",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "on if the sum of all but one of its interior angles is $10",
+        "solution": "0(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\cir",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": " is $x+37$. What is the value ",
+        "solution": "ation $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "ed into six equilateral triangles. If the perimeter of one of the triangles is 21 inches",
+        "solution": "es, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "ow many ways can  5 students be sele",
+        "solution": "ut of a group of 6 students  without regard to order in $",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " all values of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the ",
+        "solution": "sitive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "to six equilateral triangles. If the perimeter of one of the triangles is 21 inches, wha",
+        "solution": "hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linew",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "qrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where ",
+        "solution": "t{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we ob",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "gon can be divided into six equilateral triangles. If the perimeter of one of the triang",
+        "solution": "ne of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inc",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "can  5 students be selected from a g",
+        "solution": "f 6 students  without regard to order in $\\binom{6}{5} = ",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": " can  5 students be selected from a ",
+        "solution": " a group of 6 students  without regard to order in $\\bino",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is a",
+        "solution": "- 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - ",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "$e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^",
+        "solution": "e 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = \\frac{6}{5}$ and $e = \\frac{16}{5},$ so the maximum value of $e$ is $\\bo",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "alf the value of $3x-9$ is $x+",
+        "solution": "e translate the problem to the equation $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = ",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "of $3x-9$ is $x+37$. What is t",
+        "solution": "c{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yiel",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "nvex polygon if the sum of all but one of its interior ang",
+        "solution": "ore than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, t",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "f the value of $3x-9$ is $x+37",
+        "solution": " both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both s",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "convex polygon if the sum of all but one of its interior a",
+        "solution": "red polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has mor",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "egular hexagon can be divided into six equilateral triangles. If the perimeter of one of",
+        "solution": "ngles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm)",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "of $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the range of $f(",
+        "solution": " Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the $f(x)$ must be an integer, ",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "r simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{10}{",
+        "solution": "1}=(7)(10)\\left(\\frac{21}{30}\\right)=\\box",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": " 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter all s",
+        "solution": "0) = -1.$\n\nSetting $y = 1,$ we get\n\\[f(x) + 1 = f(x + 1) - x - 1,\\]so\n\\[f(x + 1) - f(x) = x + 2.\\]Thus,\n\\begin{align*}\nf(2) - f(1) &= 1 + 2, \\\\\nf(3) - f(2) &= 2 + 2, \\\\\nf(4) - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ whe",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "ateral triangles. If the perimeter of one of the triangles is 21 inches, what is the per",
+        "solution": "to the side length of one of the equilateral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ i",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": " + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maximu",
+        "solution": "(a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs whe",
+        "answer": "\\frac{",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "ygon if the sum of all but one of its interior angles is $",
+        "solution": "on has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 ",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, ",
+        "solution": "ate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sq",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the si",
+        "solution": "\\frac{7}{30}@\\frac{10}{21}=(7)(10)\\left(\\",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "rac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is th",
+        "solution": "c{7}{30}@\\frac{10}{21}=(7)(10)\\left(\\frac",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "t whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equatio",
+        "solution": "se $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, the",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "How many sides would there be in a convex polygon if the s",
+        "solution": "e polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\circ$.  But this is impossible because each interior ",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "$\\lceil{\\sqrt{20}}",
+        "solution": "eger greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}}\\rceil^2=5^2=\\boxe",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "s in it. At the moment, the ratio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbl",
+        "solution": "ue to yellow is 4:3, so $\\dfrac{x}{y}=\\dfrac{4}{3}$. Additionally, after we add blue marbles and remove yellow marbles the total number of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "w many sides would there be in a convex polygon if the sum",
+        "solution": " degrees, which means that the desired polygon has more than 7 sides.  Meanwhile, the angle measures in a polygon with 8 sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "t whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equatio",
+        "solution": " - 2 = r.$  Then $r^2 - r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "c{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac",
+        "solution": "}=(7)(10)\\left(\\frac{21}{30}\\right)=\\boxe",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "exagon can be divided into six equilateral triangles. If the perimeter of one of the tri",
+        "solution": "eral triangles.  Since the hexagon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunits",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "lify $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-",
+        "solution": "ugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "nown physics formula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a ",
+        "solution": "cceleration of Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot ",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\f",
+        "solution": "}@\\frac{10}{21}=(7)(10)\\left(\\frac{21}{30",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "ts be selected from a group of 6 stu",
+        "solution": "ut of a group of 6 students  without regard to order in $",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "ll.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceleration of Jen's ball to Jack's?  Answer as a fraction i",
+        "solution": " and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\cdot 150\\qquad",
+        "answer": "rac ",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "-9$ is $x+37$. What is the val",
+        "solution": "gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yields $ x =",
+        "answer": "3",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "mplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{10}{21}$",
+        "solution": "c{10}{21}=(7)(10)\\left(\\frac{21}{30}\\righ",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": " the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $D$ are positive integer",
+        "solution": "\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 = \\boxed{13}",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "atio of blue marbles to yellow marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. Ho",
+        "solution": "3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number of blue marbles before more were",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "students be selected from a group of",
+        "solution": " a group of 6 students  without regard to order in $\\bino",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "f $x$ in $[0,\\infty)$ such that $f(x)$ is a real number. How many distinct values exist in the range of $f(x",
+        "solution": "s a negative number, $f(x)$ is only defined for integer values of $x$, and will alternate between positive and negative values. Additionally, $\\left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The nega",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "convex polygon if the sum of all but one of its interior a",
+        "solution": ", and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\circ$.  But this is impossible because each interior angle of a convex polygon has m",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "es is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in the bag ",
+        "solution": "mber of blue marbles and yellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since ",
+        "answer": "6",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": " formula that force equals mass times acceleration.  Jen wants to throw a softball with the same force as Jack throws a baseball.  If the softball has a mass of $200",
+        "solution": "leration of Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200",
+        "answer": "\\fra",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "hat fraction of 2 feet is 3 inches? Exp",
+        "solution": "inches, 3 inches is $3/24=\\boxed{\\frac{1}{8",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": "Let $f(x)=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ be a function that is defined for all values of ",
+        "solution": "ses in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloor\\left(-\\frac58\\right)^1\\right\\rfloor=-1$. This tells us that $-1 \\le f(x) \\le 1$. Since the",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "erbola, point, line, two lines, or empty.\n\n$\\left(\\frac x2 - 3\\right)^2 + y^2 = 1",
+        "solution": "s looks like the equation of a circle, but we have replaced $x$ with $\\frac x2$. So, we suspect this equation defines an $\\boxed{\\text{ellipse}}$. To verify this we write \\[",
+        "answer": "t{ellip",
+        "subject": "Intermediate Algebra",
+        "level": 2,
+        "unique_id": "test/intermediate_algebra/860.json"
+    },
+    {
+        "problem": "rac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\fr",
+        "solution": "c{7}{30}@\\frac{10}{21}=(7)(10)\\left(\\frac",
+        "answer": "9",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "ft\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ be a function that is defined for all values of $x$ in $[0,\\i",
+        "solution": "left|-\\frac58\\right|< 1$, so $|f(x)|$ will continually decrease and approach 0 as $x$ increases in the interval $x\\ge0$. Therefore, the largest positive value will occur at $x=0$, giving us the positive upper bound of $\\left\\lfloor\\left(-\\frac58\\right)^0\\right\\rfloor=1$. The negative value that is greatest in magnitude then occurs at the next integer value of $x$: $x=1$, giving us the negative lower bound of $\\left\\lfloo",
+        "answer": "",
+        "subject": "Algebra",
+        "level": 5,
+        "unique_id": "test/algebra/2176.json"
+    },
+    {
+        "problem": "the number of quadratic equations of the form $x^2 + ax + b = 0,$ such that whene",
+        "solution": ".$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "ided into six equilateral triangles. If the perimeter of one of the triangles is 21 inch",
+        "solution": "gon has six sides and the triangle has three sides, the perimeter of the hexagon is twice as large as the perimeter of a triangle.  Therefore, the perimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "t whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equatio",
+        "solution": "r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to get $r + s = -1.$  Adding the equations $r^2 - 2 = s$ and $s^2 - 2 = r,$ we get\n\\[r^2 + s^2 - 4 = r + s = -1,\\]so $r^2 + s^2 = 3.$  Squaring the equation $r + s = -1,$ we get $r^2 + 2rs + s^2 = 1,$ so $2rs = -2,$ or $rs = -1.$  Thus, $r$ and $s$ are the roots of $x^2 + x - 1.$\n\nIn case (iii), $r^2 - 2 = s^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ so $r = 2$ or $r = -1.$\n\nIf $r = 2,$ then $s^2 = 4,$ so $s = -2.$  (We are assuming that $r \\neq s.$)  This leads to the quadratic $(x - 2)(x + 2) = x^2 - 4.$\n\nIf $r = -1$, then $s^2 = 1,$ so $s = 1.$  This leads to the quadratic $(x + 1)(x - 1) = x^2 - 1.$\n\nThus, there are $\\boxed{6}$ quadratic equations that work, namely $x^2 - 4x + 4,$ $x^2 + 2x + 1,$ $x^2 - x - 2,$ $x^2 + x - 1",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is",
+        "solution": "e take the cases where $r = s$ and $r \\neq s.$\n\nCase 1: $r = s.$\n\nSince $r$ is the only root, we must have $r^2 - 2 = r.$  Then $r^2 - r - 2 = 0,$ which factors as $(r - 2)(r + 1) = 0,$ so $r = 2$ or $r = -1.$  This leads to the quadratics $x^2 - 4x + 4$ and $x^2 + 2x + 1.$\n\nCase 2: $r \\neq s.$\n\nEach of $r^2 - 2$ and $s^2 - 2$ must be equal to $r$ or $s.$  We have three cases:\n\n(i) $r^2 - 2 = r$ and $s^2 - 2 = s.$\n\n(ii) $r^2 - 2 = s$ and $s^2 - 2 = r.$\n\n(iii) $r^2 - 2 = s^2 - 2 = r$.\n\nIn case (i), as seen from Case $r,$ $s \\in \\{2,-1\\}.$  This leads to the quadratic $(x - 2)(x + 1) = x^2 - x - 2.$\n\nIn case (ii), $r^2 - 2 = s$ and $s^2 - 2 = r.$  Subtracting these equations, we get\n\\[r^2 - s^2 = s - r.\\]Then $(r - s)(r + s) = s - r.$  Since $r - s \\neq 0,$ we can divide both sides by $r - s,$ to ge",
+        "answer": "",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1544.json"
+    },
+    {
+        "problem": "egin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determ",
+        "solution": " Cauchy-Schwarz,\n\\[(a^2 + b^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) ",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "y) - xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  En",
+        "solution": ") - f(3) &= 3 + 2, \\\\\n&\\dots, \\\\\nf(n) - f(n - 1) &= (n - 1) + 2.\n\\end{align*}Adding all the equations, we get\n\\[f(n) - f(1) = 1 + 2 + 3 + \\dots + (n - 1) + 2(n - 1) = \\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Th",
+        "answer": "-2",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "rt{3}}$. Your solution can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $",
+        "solution": "\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}$. So, we obtain $A=2, B=2, C=3$ and $D=6$ ($C$ and $D$ are interchangeable). So $A+B+C+D = 2+2+3+6 = ",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "he sum of all but one of its interior angles is $1070^{\\ci",
+        "solution": "sides sum to $180(8-2) = 1080$ degrees.  So, it's possible that the polygon has $\\boxed{8}$ sides, and that the last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "ed as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\fra",
+        "solution": "$\\frac{7}{30}@\\frac{10}{21}=(7)(10)\\left(",
+        "answer": "4",
+        "subject": "Algebra",
+        "level": 2,
+        "unique_id": "test/algebra/1842.json"
+    },
+    {
+        "problem": "ilateral triangles. If the perimeter of one of the triangles is 21 inches, what is the p",
+        "solution": "erimeter of the hexagon is $2(21\\text{ inches})=\\boxed{42}$ inches.\n\n[asy]\nunitsize(10mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\nint i;\n\nfor(i=1;i<=6;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+1)));\n}\n\nfor(i=1;i<=3;++i)\n{\n\ndraw(dir(60*i)--dir(60*(i+3)));\n}[/asy]",
+        "answer": "2",
+        "subject": "Prealgebra",
+        "level": 2,
+        "unique_id": "test/prealgebra/1622.json"
+    },
+    {
+        "problem": "l{\\sqrt{20}}\\rceil",
+        "solution": "quivalently, $4<\\sqrt{20}<5$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $",
+        "answer": "5",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": " would there be in a convex polygon if the sum of all but ",
+        "solution": " last angle measures $10^\\circ$.\n\nTo see that this is the only possibility, note that the angle measures in a polygon with 9 sides sum to $180(9-2) = 1260$ degrees.  Therefore, if the polygon has more than 8 sides, then the last interior angle must measure at least $1260^\\circ - 1070^\\circ = 190^\\circ$.  But this is impossible because each interior angle of a convex polygon has measure less th",
+        "answer": "",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1251.json"
+    },
+    {
+        "problem": "Jack throws a baseball.  If the softball has a mass of $200$ g and the baseball has a mass of $150$ g, what is the ratio of acceleration of Jen's ball to Jack's?  An",
+        "solution": " of Jen's ball and $j_2$ is the acceleration of Jack's ball, then we have $$j_1 \\cdot 200 = j_2 \\",
+        "answer": "ac 3",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/518.json"
+    },
+    {
+        "problem": "hat fraction of 2 feet is 3 inches? Exp",
+        "solution": "ches, 3 inches is $3/24=\\boxed{\\frac{1}{8}}",
+        "answer": "rac{1",
+        "subject": "Prealgebra",
+        "level": 3,
+        "unique_id": "test/prealgebra/1458.json"
+    },
+    {
+        "problem": " $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\",
+        "solution": "b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a ",
+        "answer": "frac{1",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "lf the value of $3x-9$ is $x+3",
+        "solution": "ation $\\frac{1}{2}(3x-9) = x+37$. Multiplying both sides by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine t",
+        "solution": "]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le \\frac{16}{5}.$\n\nEquality occurs when $a = b = c = d = ",
+        "answer": "ac{16}",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": "y ways can  5 students be selected f",
+        "solution": "dents out of a group of 6 students  without regard to ord",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "ents be selected from a group of 6 s",
+        "solution": "f 6 students  without regard to order in $\\binom{6}{5} = ",
+        "answer": "",
+        "subject": "Counting & Probability",
+        "level": 2,
+        "unique_id": "test/counting_and_probability/190.json"
+    },
+    {
+        "problem": "of $3x-9$ is $x+37$. What is t",
+        "solution": "des by 2 gives $3x-9 = 2x+74$. Subtracting $2x$ from both sides yield $x-9 = 74$. Adding $9$ to both sides yie",
+        "answer": "8",
+        "subject": "Prealgebra",
+        "level": 4,
+        "unique_id": "test/prealgebra/1388.json"
+    },
+    {
+        "problem": "e $\\lceil{\\sqrt{20",
+        "solution": "$, the smallest integer greater than or equal to $\\sqrt{20}$ must be $5$. Thus, $\\lceil{\\sqrt{20}",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "w marbles is 4:3. If I add 5 blue marbles and remove 3 yellow marbles, the ratio will be 7:3. How many blue marbles were in t",
+        "solution": "ellow marbles will be x+5 and y-3 respectively. We're given that at this point the ratio will be $7:3$, so $\\dfrac{x+5}{y-3}=\\dfrac{7}{3}$. Cross multiplying the first equation gives $3x=4y$ and cross multiplying the second gives $3(x+5)=7(y-3)$. Solving two linear equations on two variables is routine; we get the solution $y=12$, $x=16$. Since $x$ represents the number ",
+        "answer": "1",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/694.json"
+    },
+    {
+        "problem": "ion can be converted to the form $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, where $A$, $B$, $C$, and $",
+        "solution": " the conjugate, we have $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}} = \\frac{(1+\\sqrt{2})(2-\\sqrt{3})}{(2+\\sqrt{3})((2-\\sqrt{3}))} = \\frac{2-\\sqrt{3}+2\\sqrt{2}-\\sqrt{6}}{4-3} = 2-\\s",
+        "answer": "3",
+        "subject": "Algebra",
+        "level": 4,
+        "unique_id": "test/algebra/2058.json"
+    },
+    {
+        "problem": "n{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine",
+        "solution": "^2 + c^2 + d^2)(1 + 1 + 1 + 1) \\ge (a + b + c + d)^2.\\]Thus, $(16 - e^2)(4) \\ge (8 - e)^2.$  This simplifies to $16e - 5e^2 \\ge 0,$ or $e(16 - 5e) \\ge 0.$  Therefore, $e \\le ",
+        "answer": "{16}{5",
+        "subject": "Intermediate Algebra",
+        "level": 4,
+        "unique_id": "test/intermediate_algebra/986.json"
+    },
+    {
+        "problem": " xy - 1\\]for all real numbers $x$ and $y.$  If $f(1) = 1,$ then find all integers $n$ such that $f(n) = n.$  Enter ",
+        "solution": "\\frac{(n - 1)n}{2} + 2n - 2 = \\frac{n^2 + 3n - 4}{2},\\]so\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]for all positive integers $n.$\n\nSetting $x = -n$ and $y = n,$ where $n$ is a positive integer, we get\n\\[f(-n) + f(n) = f(0) + n^2 - 1.\\]Then\n\\[f(-n) = n^2 - f(n) + f(0) - 1 = n^2 - \\frac{n^2 + 3n - 2}{2} - 2 = \\frac{n^2 - 3n - 2}{2}.\\]Thus, the formula\n\\[f(n) = \\frac{n^2 + 3n - 2}{2}\\]holds for all integers $n.$\n\nWe want to solve $f(n) = n,$ or\n\\[\\frac{n^2 + 3n - 2}{2} = n.\\]Then $n^2 + 3n - 2 = 2n,$ ",
+        "answer": "1,",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1388.json"
+    },
+    {
+        "problem": "{\\sqrt{20}}\\rceil^",
+        "solution": "rt{16}<\\sqrt{20}<\\sqrt{25}$, or, equivalently, $4<\\sqrt{20}<5$, the smallest integer greater than",
+        "answer": "2",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/435.json"
+    },
+    {
+        "problem": "What is the distance, in units, between the points $(2, -6)$ and $(-4, 3)$? Express your answer in simplest radical form.",
+        "solution": "We use the distance formula:  \\begin{align*}\n\\sqrt{(2 - (-4))^2 + ((-6) - 3)^2} &= \\sqrt{6^2 + (-9)^2}\\\\\n& = \\sqrt{36 + 81}\\\\\n& = \\sqrt{117} = \\boxed{3\\sqrt{13}}.\n\\end{align*}",
+        "answer": "3\\sqrt{13}",
+        "subject": "Algebra",
+        "level": 3,
+        "unique_id": "test/algebra/2036.json"
+    },
+    {
+        "problem": "The expression $2\\cdot 3 \\cdot 4\\cdot 5+1$ is equal to 121, since multiplication is carried out before addition. However, we can obtain values other than 121 for this expression if we are allowed to change it by inserting parentheses. For example, we can obtain 144 by writing \\[\n(2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144.\n\\]In total, how many values can be obtained from the expression $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ by inserting parentheses? (Note that rearranging terms is not allowed, only inserting parentheses).",
+        "solution": "By the associative property of multiplication, it doesn't help to insert parentheses that specify the order of multiplication. For example, the associative property tells us that $(2\\cdot(3\\cdot 4))\\cdot (5+1)$ is the same as $2\\cdot3\\cdot4\\cdot (5+1)$. So the only way to get different values is to group +1 with a different number of factors. We get \\begin{align*}\n2\\cdot 3 \\cdot 4 \\cdot (5 + 1) &= 144, \\\\\n2\\cdot 3 \\cdot (4 \\cdot 5 + 1) &= 126,\\\\\n2\\cdot (3 \\cdot 4 \\cdot 5 + 1) &= 122, \\\\\n(2\\cdot 3 \\cdot 4 \\cdot 5) + 1 \\hphantom{)} &= 121.\n\\end{align*}In total there are $\\boxed{4}$ possible values for the expression.",
+        "answer": "4",
+        "subject": "Prealgebra",
+        "level": 5,
+        "unique_id": "test/prealgebra/1139.json"
+    },
+    {
+        "problem": "What is the least positive integer multiple of 30 that can be written with only the digits 0 and 2?",
+        "solution": "Let $M$ be the least positive multiple of 30 that can be written with only the digits 0 and 2. First, $M$ is a multiple of 10, so its units digit must be 0. $M$ is also a multiple of 3, which means the sum of its digits must be a multiple of 3. Therefore, we must take at least  three 2's. Since $M$ is minimal, we take exactly three 2's and do not have any additional 0's: $M=\\boxed{2220}$.",
+        "answer": "2220",
+        "subject": "Number Theory",
+        "level": 3,
+        "unique_id": "test/number_theory/1032.json"
+    },
+    {
+        "problem": "Let $p(x)$ be a polynomial of degree 5 such that\n\\[p(n) = \\frac{n}{n^2 - 1}\\]for $n = 2,$ 3, 4, $\\dots,$ 7.  Find $p(8).$",
+        "solution": "Let $q(x) = (x^2 - 1) p(x) - x.$  Then $q(x)$ has degree 7, and $q(n) = 0$ for $n = 2$, 3, 4, $\\dots,$ 7, so\n\\[q(x) = (ax + b)(x - 2)(x - 3) \\dotsm (x - 7)\\]for some constants $a$ and $b.$\n\nWe know that $q(1) = (1^2 - 1)p(1) - 1 = -1.$  Setting $x = 1$ in the equation above, we get\n\\[q(1) = 720(a + b),\\]so $a + b = -\\frac{1}{720}.$\n\nWe also know that $q(-1) = ((-1)^2 - 1)p(-1) + 1 = 1.$  Setting $x = -1$ in the equation above, we get\n\\[q(-1) = 20160(-a + b),\\]so $-a + b = \\frac{1}{20160}.$  Solving for $a$ and $b,$ we find $a = -\\frac{29}{40320}$ and $b = -\\frac{3}{4480}.$  Hence,\n\\begin{align*}\nq(x) &= \\left( -\\frac{29}{40320} x - \\frac{3}{4480} \\right) (x - 2)(x - 3) \\dotsm (x - 7) \\\\\n&= -\\frac{(29x + 27)(x - 2)(x - 3) \\dotsm (x - 7)}{40320}.\n\\end{align*}In particular,\n\\[q(8) = -\\frac{(29 \\cdot 8 + 27)(6)(5) \\dotsm (1)}{40320} = -\\frac{37}{8},\\]so\n\\[p(8) = \\frac{q(8) + 8}{8^2 - 1} = \\boxed{\\frac{3}{56}}.\\]",
+        "answer": "\\frac{3}{56}",
+        "subject": "Intermediate Algebra",
+        "level": 5,
+        "unique_id": "test/intermediate_algebra/1197.json"
+    },
+    {
+        "problem": "The proper divisors of 12 are 1, 2, 3, 4 and 6. A proper divisor of an integer $N$ is a positive divisor of $N$ that is less than $N$. What is the sum of the proper divisors of the sum of the proper divisors of 284?",
+        "solution": "Prime factorize $284=2^2\\cdot71$. The sum of the proper divisors of $284$ is\n\\begin{align*}\n1+2+2^2+71+2 \\cdot 71 &= (1+2+2^2)(1+71)-284 \\\\\n&= 220 \\\\\n&= 2^2\\cdot5\\cdot11.\n\\end{align*}Here we have used the observation that multiplying out $(1+2+2^2)(1+71)$ by distributing yields an expression which is the sum of all $6$ factors of $284.$ Applying this observation again, we find that the sum of the proper divisors of $220$ is $$(1+2+2^2)(1+5)(1+11)-220=7\\cdot 6\\cdot 12-220=\\boxed{284}.$$",
+        "answer": "284",
+        "subject": "Number Theory",
+        "level": 5,
+        "unique_id": "test/number_theory/737.json"
+    },
+    {
+        "problem": "The volume of the cylinder shown is $45\\pi$ cubic cm. What is the height in centimeters of the cylinder? [asy]\nsize(120);\ndraw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));\n\ndraw((1,0)--(1,-2));\ndraw((3.4,0)--(3.4,-2));\n\ndraw((1,-2)..(2.2,-2.36)..(3.4,-2));\n\nlabel(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);\n\ndraw (((2.2,0)--(3.4,0)));\n\nlabel(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);\n\n[/asy]",
+        "solution": "The volume of the cylinder is $bh=\\pi r^2h$. The radius of the base is $3$ cm, so we have $9\\pi h=45\\pi\\qquad\\Rightarrow h=5$. The height of the cylinder is $\\boxed{5}$ cm.",
+        "answer": "5",
+        "subject": "Geometry",
+        "level": 2,
+        "unique_id": "test/geometry/248.json"
+    },
+    {
+        "problem": "Suppose $\\sin D = 0.7$ in the diagram below. What is $DE$? [asy]\npair D,E,F;\nF = (0,0);\nD = (sqrt(51),7);\nE = (0,7);\ndraw(D--E--F--D);\ndraw(rightanglemark(D,E,F,15));\nlabel(\"$D$\",D,NE);\nlabel(\"$E$\",E,NW);\nlabel(\"$F$\",F,SW);\nlabel(\"$7$\",(E+F)/2,W);\n[/asy]",
+        "solution": "The triangle is a right triangle, so $\\sin D = \\frac{EF}{DF}$. Then we have that $\\sin D = 0.7 = \\frac{7}{DF}$, so $DF = 10$.\n\nUsing the Pythagorean Theorem, we find that the length of $DE$ is $\\sqrt{DF^2 - EF^2},$ or $\\sqrt{100 - 49} = \\boxed{\\sqrt{51}}$.",
+        "answer": "\\sqrt{51}",
+        "subject": "Precalculus",
+        "level": 1,
+        "unique_id": "test/precalculus/1303.json"
+    }
+]
